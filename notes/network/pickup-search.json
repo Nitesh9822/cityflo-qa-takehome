@@ -1,0 +1,72 @@
+[
+  {
+    "method": "GET",
+    "url": "https://api.cityflostaging.com/api/v2/routes/get-search-suggestions-for-customer/?search_term=Hiranandani+Gardens&session_token=%5BREDACTED%5D&time_of_day=2&search_type=pickup",
+    "status": 200,
+    "host": "api.cityflostaging.com",
+    "responseJson": {
+      "stops": [],
+      "places": [
+        {
+          "place_id": "ChIJLYufSOXH5zsRK1aMQKwb59k",
+          "main_text": "Hiranandani Gardens, Powai",
+          "secondary_text": "Mumbai, Maharashtra, India",
+          "place_types": [
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "order": 1,
+          "description": "Hiranandani Gardens, Powai, Mumbai, Maharashtra, India"
+        },
+        {
+          "place_id": "ChIJLYVrvvrH5zsR5uAVjCC7VD0",
+          "main_text": "Hiranandani Gardens",
+          "secondary_text": "Central Avenue, Panchkutir Ganesh Nagar, Powai, Mumbai, Maharashtra, India",
+          "place_types": [
+            "0",
+            "0"
+          ],
+          "order": 2,
+          "description": "Hiranandani Gardens, Central Avenue, Panchkutir Ganesh Nagar, Powai, Mumbai, Maharashtra, India"
+        },
+        {
+          "place_id": "ChIJLTWlSQ_I5zsRXpyJZ9UUj7o",
+          "main_text": "Hiranandani Gardens Powai Sales Gallery",
+          "secondary_text": "Hiranandani Gardens, Powai, Mumbai, Maharashtra, India",
+          "place_types": [
+            "0",
+            "0",
+            "0"
+          ],
+          "order": 3,
+          "description": "Hiranandani Gardens Powai Sales Gallery, Hiranandani Gardens, Powai, Mumbai, Maharashtra, India"
+        },
+        {
+          "place_id": "ChIJ_zB51efH5zsRyxoNiwOFh1w",
+          "main_text": "Hiranandani Gardens Lotus",
+          "secondary_text": "Cliff Avenue, Hiranandani Gardens, Powai, Mumbai, Maharashtra, India",
+          "place_types": [
+            "0",
+            "0",
+            "0"
+          ],
+          "order": 4,
+          "description": "Hiranandani Gardens Lotus, Cliff Avenue, Hiranandani Gardens, Powai, Mumbai, Maharashtra, India"
+        },
+        {
+          "place_id": "ChIJcYkm67PH5zsRZBFyebcCP-g",
+          "main_text": "Hiranandani Gardens",
+          "secondary_text": "High Street, Hiranandani Gardens, Powai, Mumbai, Maharashtra, India",
+          "place_types": [
+            "0",
+            "0"
+          ],
+          "order": 5,
+          "description": "Hiranandani Gardens, High Street, Hiranandani Gardens, Powai, Mumbai, Maharashtra, India"
+        }
+      ]
+    }
+  }
+]

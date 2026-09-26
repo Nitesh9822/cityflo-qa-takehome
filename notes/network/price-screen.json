@@ -1,0 +1,6663 @@
+[
+  {
+    "method": "GET",
+    "url": "https://api.cityflostaging.com/api/v2/routes/get-path-between-stops/?start_stop_pk=18907&end_stop_pk=9&route_slot_pk=128405",
+    "status": 200,
+    "host": "api.cityflostaging.com",
+    "responseJson": {
+      "route_slot_pk": 128405,
+      "start_time": "08:15 AM",
+      "start_stop_name": "Vikhroli Depot",
+      "end_time": "09:36 AM",
+      "end_stop_name": "Fire Station",
+      "via": "",
+      "stops_count_text": "17 intermediate stops",
+      "stops_data": [
+        {
+          "stop_pk": 18907,
+          "stop_name": "Vikhroli Depot",
+          "stop_image_url": "https://stopsimg.cityflo.net/0dc28d6d-256c-4088-8e40-ddf78acc70bd.jpg",
+          "stop_description": "Oppo Vikhroli Depo ",
+          "highlight_text": "big_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar W",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar W"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/0dc28d6d-256c-4088-8e40-ddf78acc70bd.jpg",
+            "https://stopsimg.cityflo.net/c7db42e8-ea30-4749-9987-51e8b54f809d.jpg",
+            "https://stopsimg.cityflo.net/83efc2d7-3b21-43a8-9ec9-8eedd3b107ed.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18908,
+          "stop_name": "RCity Mall",
+          "stop_image_url": "https://stopsimg.cityflo.net/c9dc55c7-9115-4352-9794-885333c1ff26.jpg",
+          "stop_description": "Oppo Rcity Mall",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar W",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar W"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/c9dc55c7-9115-4352-9794-885333c1ff26.jpg",
+            "https://stopsimg.cityflo.net/518b674b-ec5f-4096-8ea2-c1991b4e1db3.jpg",
+            "https://stopsimg.cityflo.net/55f6c6ab-4a8a-4388-8a91-4486b96e68cc.jpg",
+            "https://stopsimg.cityflo.net/7258ce80-35a5-4650-9f14-78b685b8127a.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18909,
+          "stop_name": "Shreyas Cinema",
+          "stop_image_url": "https://stopsimg.cityflo.net/7b38aa45-56f0-4704-acec-6f6d2f1ac39b.jpg",
+          "stop_description": "Front Of Neelkanth Enclave Gate",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar W",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar W"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/7b38aa45-56f0-4704-acec-6f6d2f1ac39b.jpg",
+            "https://stopsimg.cityflo.net/c710d3e2-4645-468a-964b-60f5a2d61db6.jpg",
+            "https://stopsimg.cityflo.net/df7d3c34-21ac-4a19-b25f-b869d5cfa7fb.jpg",
+            "https://stopsimg.cityflo.net/55f1c54a-1fe9-4573-a6e7-ffd7d6ca3cfa.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18910,
+          "stop_name": "Laxmi Nagar",
+          "stop_image_url": "https://stopsimg.cityflo.net/f6e9ef3d-859e-4013-adb5-47ea6f6b28bf.jpg",
+          "stop_description": "Next To Laxmi Nagar Best Stop",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar E",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar E"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/f6e9ef3d-859e-4013-adb5-47ea6f6b28bf.jpg",
+            "https://stopsimg.cityflo.net/6d2f174f-dcb3-4647-b414-2838ecf66b88.jpg",
+            "https://stopsimg.cityflo.net/175324cb-e42e-4895-9b25-825e47a97473.jpg",
+            "https://stopsimg.cityflo.net/ad0f848c-0e42-4259-bfe9-74329171a22c.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18911,
+          "stop_name": "Infinity Lab ",
+          "stop_image_url": "https://stopsimg.cityflo.net/01d6d6dc-5a82-4319-9549-36f813550aa5.jpg",
+          "stop_description": "Oppo Chandan Pride Building ",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar E",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar E"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/01d6d6dc-5a82-4319-9549-36f813550aa5.jpg",
+            "https://stopsimg.cityflo.net/b85d1e5d-7b29-4397-887f-d1372e60d9d3.jpg",
+            "https://stopsimg.cityflo.net/47f6a454-0ede-4633-b2d2-410cfbf37afe.jpg",
+            "https://stopsimg.cityflo.net/af567bae-a65b-4733-8d20-50283c26a619.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18912,
+          "stop_name": "Pant Nagar",
+          "stop_image_url": "https://stopsimg.cityflo.net/a214a83c-0548-4328-a4f3-5ca0937c2725.jpg",
+          "stop_description": "Front Of Bandhan Bank ",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar E",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar E"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/a214a83c-0548-4328-a4f3-5ca0937c2725.jpg",
+            "https://stopsimg.cityflo.net/4a7c8870-39fa-49e2-bba7-eacfb3ed24ee.jpg",
+            "https://stopsimg.cityflo.net/e901535a-1e72-4be8-93e5-c49d478a9f1f.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18913,
+          "stop_name": "Odeon Cinema",
+          "stop_image_url": "https://stopsimg.cityflo.net/d572e68f-36f3-4afa-ae09-418094c80654.jpg",
+          "stop_description": "Front Of Mumbai Bites Hotel ",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar E",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar E"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/d572e68f-36f3-4afa-ae09-418094c80654.jpg",
+            "https://stopsimg.cityflo.net/afc5ddaf-3d26-4fa6-a1a7-726635cde08c.jpg",
+            "https://stopsimg.cityflo.net/3a23357f-824a-4b89-b2d7-92a7ce29033c.jpg",
+            "https://stopsimg.cityflo.net/c14e8697-f686-42ef-9853-40e8179e409a.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18914,
+          "stop_name": "Bhoomi Antara ",
+          "stop_image_url": "https://stopsimg.cityflo.net/f39af682-ae41-4c99-aa07-9a0b7da61553.jpg",
+          "stop_description": "Front Of Bhoomi Antara Gate",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar E",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar E"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/f39af682-ae41-4c99-aa07-9a0b7da61553.jpg",
+            "https://stopsimg.cityflo.net/062758ca-247d-4428-9542-8753a6aa1799.jpg",
+            "https://stopsimg.cityflo.net/44e1b473-423e-45c5-8c97-91130406cafb.jpg",
+            "https://stopsimg.cityflo.net/2f012cf1-1ad5-46b2-9dc0-2d4bbc6240a5.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18915,
+          "stop_name": "Naamdip Society ",
+          "stop_image_url": "https://stopsimg.cityflo.net/35168f74-b628-46a1-9377-8a304246a22b.jpg",
+          "stop_description": "Front Of Naamdip Society Gate",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar E",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar E"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/35168f74-b628-46a1-9377-8a304246a22b.jpg",
+            "https://stopsimg.cityflo.net/08c80666-4637-4e25-b628-aeb84d48982b.jpg",
+            "https://stopsimg.cityflo.net/bbfefb32-e22d-4133-8333-7d1e35dcca36.jpg",
+            "https://stopsimg.cityflo.net/66a9a7f9-15e7-4f10-9458-f573d129ce01.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18916,
+          "stop_name": "Gorodiya Nagar",
+          "stop_image_url": "https://stopsimg.cityflo.net/1854fde2-e71b-451c-88b3-14677ea34b1b.jpg",
+          "stop_description": "Front Of Gorodiya Nagar Best Stop",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar E",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar E"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/1854fde2-e71b-451c-88b3-14677ea34b1b.jpg",
+            "https://stopsimg.cityflo.net/6159b467-f62c-4380-8ea6-ebecb32577db.jpg",
+            "https://stopsimg.cityflo.net/cae3139b-f4bc-4124-94a5-5906c8038c93.jpg",
+            "https://stopsimg.cityflo.net/aeba9529-ac4c-4bd7-b974-f78046f57b20.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18917,
+          "stop_name": "Ravi Petrol pump",
+          "stop_image_url": "https://stopsimg.cityflo.net/7bdb84a1-4ac0-4bf6-a210-9195446547cb.jpg",
+          "stop_description": "Near Ravi Petrol pump ",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Chembur",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Chembur"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/7bdb84a1-4ac0-4bf6-a210-9195446547cb.jpg",
+            "https://stopsimg.cityflo.net/6dd5078f-b642-4225-86e2-50f0979ded5d.jpg",
+            "https://stopsimg.cityflo.net/9a269acb-0716-4daa-94ed-ad9ba493b21a.jpg",
+            "https://stopsimg.cityflo.net/bdd1799e-ee0f-4c4d-8df2-d5c7b7d9f4b9.jpg"
+          ]
+        },
+        {
+          "stop_pk": 21046,
+          "stop_name": "Tilaknagar",
+          "stop_image_url": "https://stopsimg.cityflo.net/dc53e684-ab4c-453c-a326-ae933ea2679c.jpg",
+          "stop_description": "Front Of Canara Bank opposite Westside",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Chembur",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Chembur"
+            }
+          },
+          "is_pano_view_available": false,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/dc53e684-ab4c-453c-a326-ae933ea2679c.jpg",
+            "https://stopsimg.cityflo.net/047efa0e-a22c-4ef7-ba62-98e07e9b054b.jpg",
+            "https://stopsimg.cityflo.net/fd6961cd-0e38-4909-9ea4-402968ef0be2.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18918,
+          "stop_name": "Amar Mahal ",
+          "stop_image_url": "https://stopsimg.cityflo.net/46db003a-fce2-4e7b-a7c6-65868d2085af.jpg",
+          "stop_description": "At Amar Mahal Signal ",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Chembur",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Chembur"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/46db003a-fce2-4e7b-a7c6-65868d2085af.jpg",
+            "https://stopsimg.cityflo.net/a376dba5-a21c-4f81-b180-24d9a557459a.jpg",
+            "https://stopsimg.cityflo.net/0fdc9107-0b84-4708-9c28-a7edbc93b486.jpg",
+            "https://stopsimg.cityflo.net/ff340770-f3ba-4129-89f1-a778fee290ed.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18919,
+          "stop_name": "Postal colony",
+          "stop_image_url": "https://stopsimg.cityflo.net/2b0acaf1-cfe7-4857-8817-3c0c51c3384d.jpg",
+          "stop_description": "Ahaed of postal Colony Best Stop",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Chembur",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Chembur"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/2b0acaf1-cfe7-4857-8817-3c0c51c3384d.jpg",
+            "https://stopsimg.cityflo.net/08e0df4a-2adf-4483-9db2-583e245dcce2.jpg",
+            "https://stopsimg.cityflo.net/a46fb358-e339-4350-b0b7-9193ab780d81.jpg",
+            "https://stopsimg.cityflo.net/f7c7076f-034c-4ee9-9e90-5b8123655f2a.jpg"
+          ]
+        },
+        {
+          "stop_pk": 5139,
+          "stop_name": "PNB",
+          "stop_image_url": "https://stopsimg.cityflo.net/c086534bdf8af62b.jpg",
+          "stop_description": "At PNB Bank Gate Opposite IDBI Bank",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "BKC",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "BKC"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/c086534bdf8af62b.jpg",
+            "https://stopsimg.cityflo.net/ade4b9dddecc32e3.jpg",
+            "https://stopsimg.cityflo.net/59572dfc51bed81e.jpg"
+          ]
+        },
+        {
+          "stop_pk": 5296,
+          "stop_name": "Jio Garden",
+          "stop_image_url": "https://stopsimg.cityflo.net/9f9e7c0f-a4dc-4217-9619-5a34424fb12d.jpg",
+          "stop_description": "At Kotak bank, Opposite to Jio garden. ",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "BKC",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "BKC"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/9f9e7c0f-a4dc-4217-9619-5a34424fb12d.jpg",
+            "https://stopsimg.cityflo.net/af7f7e36-fbbd-438f-b59e-40cec3ef8355.jpg",
+            "https://stopsimg.cityflo.net/81e3fbd0-66c5-443c-b886-e0d122d44e88.jpg"
+          ]
+        },
+        {
+          "stop_pk": 5297,
+          "stop_name": "SEBI",
+          "stop_image_url": "https://stopsimg.cityflo.net/55dc0d04-3f59-4edd-806e-4d829a57c19f.jpg",
+          "stop_description": "In front of the SEBI building",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "BKC",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "BKC"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/55dc0d04-3f59-4edd-806e-4d829a57c19f.jpg",
+            "https://stopsimg.cityflo.net/8e4f6be4-18d2-4e4a-9fb2-f2cc337ce8ca.jpg",
+            "https://stopsimg.cityflo.net/73b769d4-28a2-4d95-ae9c-16b3041739f8.jpg"
+          ]
+        },
+        {
+          "stop_pk": 5298,
+          "stop_name": "ICICI bus stop",
+          "stop_image_url": "https://stopsimg.cityflo.net/94dd8b52-c986-4b5f-8f8c-dcd05a32a0c8.jpg",
+          "stop_description": "Near HP Petrol pump, In front Of Asian Hospital",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "BKC",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "BKC"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/94dd8b52-c986-4b5f-8f8c-dcd05a32a0c8.jpg",
+            "https://stopsimg.cityflo.net/0c79e3d4-905f-499b-bbef-034f99ef3f9a.jpg",
+            "https://stopsimg.cityflo.net/02ab3090-689c-4b55-9e2d-1f809661cc6a.jpg",
+            "https://stopsimg.cityflo.net/b26a810b-b85e-413d-98b3-83ee62c54b0a.jpg"
+          ]
+        },
+        {
+          "stop_pk": 9,
+          "stop_name": "Fire Station",
+          "stop_image_url": "https://stopsimg.cityflo.net/b81d32c0-ffe8-4a11-9a1e-026a95806b30.jpg",
+          "stop_description": "In front of KIA showroom at TCG Financial Centre",
+          "highlight_text": "big_black",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "BKC",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "BKC"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/b81d32c0-ffe8-4a11-9a1e-026a95806b30.jpg",
+            "https://stopsimg.cityflo.net/6c469903-ddfa-4bb7-9f0c-f5c7946fa097.jpg",
+            "https://stopsimg.cityflo.net/f45f92c2-5e36-46a8-8488-1999fb363002.jpg",
+            "https://stopsimg.cityflo.net/e371671f-96e9-4388-9b4a-832dd6d67887.jpg"
+          ]
+        },
+        {
+          "stop_pk": 5299,
+          "stop_name": "Jio World Centre",
+          "stop_image_url": "https://stopsimg.cityflo.net/85012cbc-4109-4e64-98bf-2dacbc8a2291.jpg",
+          "stop_description": "Opposite to gate no 19,  Jio World Centre",
+          "highlight_text": "no_highlight",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "BKC",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "BKC"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/85012cbc-4109-4e64-98bf-2dacbc8a2291.jpg",
+            "https://stopsimg.cityflo.net/d4c1ae6b-a243-4272-acd8-238b519fa7f8.jpg",
+            "https://stopsimg.cityflo.net/b046bafa-0acc-467d-b1e0-d19f32a6ec80.jpg"
+          ]
+        },
+        {
+          "stop_pk": 5300,
+          "stop_name": "ONGC",
+          "stop_image_url": "https://stopsimg.cityflo.net/6011ff67-1379-4236-bfe1-5154e455fc6f.jpg",
+          "stop_description": "At ONGC best bus stop",
+          "highlight_text": "no_highlight",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "BKC",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "BKC"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/6011ff67-1379-4236-bfe1-5154e455fc6f.jpg",
+            "https://stopsimg.cityflo.net/e1e29e2c-9d78-427e-b584-898991966df6.jpg",
+            "https://stopsimg.cityflo.net/eb6bacfd-a671-464e-85e6-f34a7262078c.jpg"
+          ]
+        },
+        {
+          "stop_pk": 73,
+          "stop_name": "RBI",
+          "stop_image_url": "https://stopsimg.cityflo.net/1f312189-aba7-432f-ace4-f76fe657833d.jpg",
+          "stop_description": "In front of RBI office.",
+          "highlight_text": "no_highlight",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "BKC",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "BKC"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/1f312189-aba7-432f-ace4-f76fe657833d.jpg",
+            "https://stopsimg.cityflo.net/6098707d-5213-42e4-8cf0-ef18bdda95fd.jpg",
+            "https://stopsimg.cityflo.net/71a9b25a-cf37-4b05-b801-a65fd6e78e07.jpg"
+          ]
+        },
+        {
+          "stop_pk": 24,
+          "stop_name": "Family court signal",
+          "stop_image_url": "https://stopsimg.cityflo.net/23edc432-87d7-4f52-a3f2-c68644553b84.jpg",
+          "stop_description": "In front of Mahanagar Gas Ltd., before the Family Court signal",
+          "highlight_text": "no_highlight",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "BKC",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "BKC"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/23edc432-87d7-4f52-a3f2-c68644553b84.jpg",
+            "https://stopsimg.cityflo.net/f2839f32-87c2-4603-a34a-5f6c3bd56a74.jpg",
+            "https://stopsimg.cityflo.net/8f29cc0c-4352-45c9-878d-bd4720fa304a.jpg"
+          ]
+        }
+      ],
+      "polyline": "syqsBuba|LPLPLRLPLZRXPZRXRZPZRXPZRRNPNRNRNRNPNRNRNRLPNRNRNRNPNRNRNNLNLNJNLVRNUHSJQBGDFDH?BIX?JLRLPLJLJNHLJLJLJNHLJPJPJHBTAVIHINRMRMRSVVVXVNJPJNLLLNJNLNLLLNJNLVTVTNLNLNLNLPJNLNLNLNLNLPLNLNLNLPLNLNJNLPLNLNLNLPLNLNJNLNJNLNJNJNLNJNLPJNLPJZTZR\\TZRVEXCHWFWHWHWJ]J_@J]H_@J]J]J_@J]JULUJULUPUPUV[XYTYT[VYTYJQJSLQJQHUHUHUFUHUHUHUHUHUJUHUJUN]P[LMLMRPPNPNLDPD\\ARCPCRCPERCRCPCRCPBP@RPRNLNLNNNLN?N@`@B`@DRBRDRDRJRJPNPNRPPNPRRPRRPRRTNRPTNRNTNTPRNTNLJNJLHNJLJNJLHNJLQNQLQNQFSFSCGEQBQNWPGP?NFJJDN?RAHABTTVTTRVTLJLLLJLJPNNNPNPNJJLJLLLJLJLLLJLJJLLJLJLJLLLJLJLLLJNLNLPLNLRPTPRPTRRPTPRPTPZP\\PRHPFRHRFRHRHRHRHTHRHRHRH\\N\\L\\N\\LTFVHTFVF\\N\\NNHNJNHNHNHNJNHNHTPTPTNTPTRVPTPRRTPTPTPRRTPTPRRRPRRRPNRPPJPJRLPJPL`@J\\D^F\\BV@XBV@VBVBX@VBV?^@^?^@^?V@V?V?V@T?V@V?V?^A\\?^?^JRJRRFRFPHPFPHPFPHPFPHPHPFPHPFPHPFPHPFPHZJ\\HRJTJPHPHRHPHXNXNZNXNPFPHPFPHPFPFPHPFZJZHRJPFRDPFRDNFPDRDVFVHVFVHVFVFVHVF\\N\\L^N\\L^NPFRDPFRFPDRFPDRFPDNDPDNFPDPDNDPDXHVFXHXFTFTDVFTDHPJPJNHLJNJLLRJRLRJRLPLRJRLRFLB^NTNTHNJNHLJNHNJNHLJNHNJNHLJNHNJNHLJNJNHNJLHNJNJNHNJNJLHNJNHNJNJLHNJNPXPXPXNXPVPXPXPXLRJRLRLRLRJRLRLRLRJRLRLRLRJRLRLRT\\R\\T\\T\\TZR\\T\\T\\LPLPLNJPLPLPLNLPLPLPLNJPLPLPLNLPLPLPLPLRNPLPLPLPLPLPLPLRNPLPLPLPRXPXRVRXRXPXRVRXPTNTPTPTPTNTPTPTPTNTPTPTPTNTPTPTLRNRLPNRTZTZTXTZNXPVLZJZLXLZL\\L^L\\L\\HPHNHPHNHPHNHPHNJVDRFRDRFRDRFRDRFRJVJTF`@H`@B^D^FZH\\H^H\\H\\H\\J\\J^J\\J^J\\J^J\\J^J\\FRDTFRFTFRDRFTFRFVHXFVHXFVHVFXHVFRDPFRFRDPFRFRDRFPFRFRDPFRFRDPFRJVLTCB?L@VH^J^H\\J^HXFXHXFXHVFXHXFXHXHXFXHXFVHXFXHXF^F\\?X?VCPCRKZOTMTMRORMTMROTOTOTOTMPMPMROPMPMPMRMPU\\SZU\\S\\U\\SZU\\S\\QTQVOTQTQVQTOVQTSXSZQXSZKNMNKNKNONQLQLQNQL[NYNWHWHWHWHUHWHWHWHSFSDQFSF_@L_@L_@N_@LSFSFSFSFYBWDU@S@U@S@S@S@S@S?S@S@S@S@Y@Y@W@Y@YBY@W@Y@SBSPMlI[FW@YBW@WBY@[@Y@Y@W@W@W@W@Q@S?Q@Q?Q@S@Q?Q@GPK^K^I^K\\K^K^I^K^K\\I^K\\I^K\\I^K\\I^IXGZCTCTIAYEYGQGQGQGQG[MYO[Q[QWQWSWUUWOQMSOQMSK[OUMUKOIOKOKOIQKOIOKOO_@O_@MUMWKSMSKSKSKUMSKSKSKSMSKSKSKUMSKSKSOWOWMYOWOWOWMYOWMUKSMUMUKUMSMUKUMSMUKUMUMSKUMUMSKUMUKUMSMUKUMUMSKUMUMSKUMUMUKSMUKSZSNILKNININILKNILINILKNILININKLINILINKLINIPIHLJLJLJLJLLLJLJLJLLNNPLNNPLNNNLPNNNNLNNNNPNNLNNNNNLFTCVAVAVAVAVAXAZAXAZAXAZAXAZAR?P?R?R?^A`@?XAXCXAVAXAXCXAXAPERCPDPD\\P^P\\P^R\\P^P\\P^PVLXLRJPHRJPJRHRJPHRJPNPLVZFPFPDVFV@R@T@R?R@R@T@R@R?R@RC^A^A\\?\\?T@R?T@T?R@T?R@T@\\B\\@\\B\\JXNN@X@X@V@X@R@R@R?R@P@R@R@RA^MRMRKRMRMTMRKRMRIPINIPINIPIPINIPININIPINININIPINYXIVIXQ\\O\\KTDVFRFRFRFRHRHPHRHPJRHPHRHPFVB^@\\?\\@Z@\\B\\DZFTFTFRFTT\\T\\NRPRNPPRRTTVRTRVTTRTTVRTJLJLLLJLJLJLLLJLPRPTRRPRPRPTRRPRPRPTRRPRPRPTRRPR"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "https://api.cityflostaging.com/api/v2/routes/get-path-between-stops/?start_stop_pk=18907&end_stop_pk=9&route_slot_pk=128405",
+    "status": 200,
+    "host": "api.cityflostaging.com",
+    "responseJson": {
+      "route_slot_pk": 128405,
+      "start_time": "08:15 AM",
+      "start_stop_name": "Vikhroli Depot",
+      "end_time": "09:36 AM",
+      "end_stop_name": "Fire Station",
+      "via": "",
+      "stops_count_text": "17 intermediate stops",
+      "stops_data": [
+        {
+          "stop_pk": 18907,
+          "stop_name": "Vikhroli Depot",
+          "stop_image_url": "https://stopsimg.cityflo.net/0dc28d6d-256c-4088-8e40-ddf78acc70bd.jpg",
+          "stop_description": "Oppo Vikhroli Depo ",
+          "highlight_text": "big_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar W",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar W"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/0dc28d6d-256c-4088-8e40-ddf78acc70bd.jpg",
+            "https://stopsimg.cityflo.net/c7db42e8-ea30-4749-9987-51e8b54f809d.jpg",
+            "https://stopsimg.cityflo.net/83efc2d7-3b21-43a8-9ec9-8eedd3b107ed.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18908,
+          "stop_name": "RCity Mall",
+          "stop_image_url": "https://stopsimg.cityflo.net/c9dc55c7-9115-4352-9794-885333c1ff26.jpg",
+          "stop_description": "Oppo Rcity Mall",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar W",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar W"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/c9dc55c7-9115-4352-9794-885333c1ff26.jpg",
+            "https://stopsimg.cityflo.net/518b674b-ec5f-4096-8ea2-c1991b4e1db3.jpg",
+            "https://stopsimg.cityflo.net/55f6c6ab-4a8a-4388-8a91-4486b96e68cc.jpg",
+            "https://stopsimg.cityflo.net/7258ce80-35a5-4650-9f14-78b685b8127a.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18909,
+          "stop_name": "Shreyas Cinema",
+          "stop_image_url": "https://stopsimg.cityflo.net/7b38aa45-56f0-4704-acec-6f6d2f1ac39b.jpg",
+          "stop_description": "Front Of Neelkanth Enclave Gate",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar W",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar W"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/7b38aa45-56f0-4704-acec-6f6d2f1ac39b.jpg",
+            "https://stopsimg.cityflo.net/c710d3e2-4645-468a-964b-60f5a2d61db6.jpg",
+            "https://stopsimg.cityflo.net/df7d3c34-21ac-4a19-b25f-b869d5cfa7fb.jpg",
+            "https://stopsimg.cityflo.net/55f1c54a-1fe9-4573-a6e7-ffd7d6ca3cfa.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18910,
+          "stop_name": "Laxmi Nagar",
+          "stop_image_url": "https://stopsimg.cityflo.net/f6e9ef3d-859e-4013-adb5-47ea6f6b28bf.jpg",
+          "stop_description": "Next To Laxmi Nagar Best Stop",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar E",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar E"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/f6e9ef3d-859e-4013-adb5-47ea6f6b28bf.jpg",
+            "https://stopsimg.cityflo.net/6d2f174f-dcb3-4647-b414-2838ecf66b88.jpg",
+            "https://stopsimg.cityflo.net/175324cb-e42e-4895-9b25-825e47a97473.jpg",
+            "https://stopsimg.cityflo.net/ad0f848c-0e42-4259-bfe9-74329171a22c.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18911,
+          "stop_name": "Infinity Lab ",
+          "stop_image_url": "https://stopsimg.cityflo.net/01d6d6dc-5a82-4319-9549-36f813550aa5.jpg",
+          "stop_description": "Oppo Chandan Pride Building ",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar E",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar E"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/01d6d6dc-5a82-4319-9549-36f813550aa5.jpg",
+            "https://stopsimg.cityflo.net/b85d1e5d-7b29-4397-887f-d1372e60d9d3.jpg",
+            "https://stopsimg.cityflo.net/47f6a454-0ede-4633-b2d2-410cfbf37afe.jpg",
+            "https://stopsimg.cityflo.net/af567bae-a65b-4733-8d20-50283c26a619.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18912,
+          "stop_name": "Pant Nagar",
+          "stop_image_url": "https://stopsimg.cityflo.net/a214a83c-0548-4328-a4f3-5ca0937c2725.jpg",
+          "stop_description": "Front Of Bandhan Bank ",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar E",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar E"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/a214a83c-0548-4328-a4f3-5ca0937c2725.jpg",
+            "https://stopsimg.cityflo.net/4a7c8870-39fa-49e2-bba7-eacfb3ed24ee.jpg",
+            "https://stopsimg.cityflo.net/e901535a-1e72-4be8-93e5-c49d478a9f1f.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18913,
+          "stop_name": "Odeon Cinema",
+          "stop_image_url": "https://stopsimg.cityflo.net/d572e68f-36f3-4afa-ae09-418094c80654.jpg",
+          "stop_description": "Front Of Mumbai Bites Hotel ",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar E",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar E"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/d572e68f-36f3-4afa-ae09-418094c80654.jpg",
+            "https://stopsimg.cityflo.net/afc5ddaf-3d26-4fa6-a1a7-726635cde08c.jpg",
+            "https://stopsimg.cityflo.net/3a23357f-824a-4b89-b2d7-92a7ce29033c.jpg",
+            "https://stopsimg.cityflo.net/c14e8697-f686-42ef-9853-40e8179e409a.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18914,
+          "stop_name": "Bhoomi Antara ",
+          "stop_image_url": "https://stopsimg.cityflo.net/f39af682-ae41-4c99-aa07-9a0b7da61553.jpg",
+          "stop_description": "Front Of Bhoomi Antara Gate",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar E",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar E"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/f39af682-ae41-4c99-aa07-9a0b7da61553.jpg",
+            "https://stopsimg.cityflo.net/062758ca-247d-4428-9542-8753a6aa1799.jpg",
+            "https://stopsimg.cityflo.net/44e1b473-423e-45c5-8c97-91130406cafb.jpg",
+            "https://stopsimg.cityflo.net/2f012cf1-1ad5-46b2-9dc0-2d4bbc6240a5.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18915,
+          "stop_name": "Naamdip Society ",
+          "stop_image_url": "https://stopsimg.cityflo.net/35168f74-b628-46a1-9377-8a304246a22b.jpg",
+          "stop_description": "Front Of Naamdip Society Gate",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar E",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar E"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/35168f74-b628-46a1-9377-8a304246a22b.jpg",
+            "https://stopsimg.cityflo.net/08c80666-4637-4e25-b628-aeb84d48982b.jpg",
+            "https://stopsimg.cityflo.net/bbfefb32-e22d-4133-8333-7d1e35dcca36.jpg",
+            "https://stopsimg.cityflo.net/66a9a7f9-15e7-4f10-9458-f573d129ce01.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18916,
+          "stop_name": "Gorodiya Nagar",
+          "stop_image_url": "https://stopsimg.cityflo.net/1854fde2-e71b-451c-88b3-14677ea34b1b.jpg",
+          "stop_description": "Front Of Gorodiya Nagar Best Stop",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Ghatkopar E",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Ghatkopar E"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/1854fde2-e71b-451c-88b3-14677ea34b1b.jpg",
+            "https://stopsimg.cityflo.net/6159b467-f62c-4380-8ea6-ebecb32577db.jpg",
+            "https://stopsimg.cityflo.net/cae3139b-f4bc-4124-94a5-5906c8038c93.jpg",
+            "https://stopsimg.cityflo.net/aeba9529-ac4c-4bd7-b974-f78046f57b20.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18917,
+          "stop_name": "Ravi Petrol pump",
+          "stop_image_url": "https://stopsimg.cityflo.net/7bdb84a1-4ac0-4bf6-a210-9195446547cb.jpg",
+          "stop_description": "Near Ravi Petrol pump ",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Chembur",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Chembur"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/7bdb84a1-4ac0-4bf6-a210-9195446547cb.jpg",
+            "https://stopsimg.cityflo.net/6dd5078f-b642-4225-86e2-50f0979ded5d.jpg",
+            "https://stopsimg.cityflo.net/9a269acb-0716-4daa-94ed-ad9ba493b21a.jpg",
+            "https://stopsimg.cityflo.net/bdd1799e-ee0f-4c4d-8df2-d5c7b7d9f4b9.jpg"
+          ]
+        },
+        {
+          "stop_pk": 21046,
+          "stop_name": "Tilaknagar",
+          "stop_image_url": "https://stopsimg.cityflo.net/dc53e684-ab4c-453c-a326-ae933ea2679c.jpg",
+          "stop_description": "Front Of Canara Bank opposite Westside",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Chembur",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Chembur"
+            }
+          },
+          "is_pano_view_available": false,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/dc53e684-ab4c-453c-a326-ae933ea2679c.jpg",
+            "https://stopsimg.cityflo.net/047efa0e-a22c-4ef7-ba62-98e07e9b054b.jpg",
+            "https://stopsimg.cityflo.net/fd6961cd-0e38-4909-9ea4-402968ef0be2.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18918,
+          "stop_name": "Amar Mahal ",
+          "stop_image_url": "https://stopsimg.cityflo.net/46db003a-fce2-4e7b-a7c6-65868d2085af.jpg",
+          "stop_description": "At Amar Mahal Signal ",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Chembur",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Chembur"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/46db003a-fce2-4e7b-a7c6-65868d2085af.jpg",
+            "https://stopsimg.cityflo.net/a376dba5-a21c-4f81-b180-24d9a557459a.jpg",
+            "https://stopsimg.cityflo.net/0fdc9107-0b84-4708-9c28-a7edbc93b486.jpg",
+            "https://stopsimg.cityflo.net/ff340770-f3ba-4129-89f1-a778fee290ed.jpg"
+          ]
+        },
+        {
+          "stop_pk": 18919,
+          "stop_name": "Postal colony",
+          "stop_image_url": "https://stopsimg.cityflo.net/2b0acaf1-cfe7-4857-8817-3c0c51c3384d.jpg",
+          "stop_description": "Ahaed of postal Colony Best Stop",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "Chembur",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "Chembur"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/2b0acaf1-cfe7-4857-8817-3c0c51c3384d.jpg",
+            "https://stopsimg.cityflo.net/08e0df4a-2adf-4483-9db2-583e245dcce2.jpg",
+            "https://stopsimg.cityflo.net/a46fb358-e339-4350-b0b7-9193ab780d81.jpg",
+            "https://stopsimg.cityflo.net/f7c7076f-034c-4ee9-9e90-5b8123655f2a.jpg"
+          ]
+        },
+        {
+          "stop_pk": 5139,
+          "stop_name": "PNB",
+          "stop_image_url": "https://stopsimg.cityflo.net/c086534bdf8af62b.jpg",
+          "stop_description": "At PNB Bank Gate Opposite IDBI Bank",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "BKC",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "BKC"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/c086534bdf8af62b.jpg",
+            "https://stopsimg.cityflo.net/ade4b9dddecc32e3.jpg",
+            "https://stopsimg.cityflo.net/59572dfc51bed81e.jpg"
+          ]
+        },
+        {
+          "stop_pk": 5296,
+          "stop_name": "Jio Garden",
+          "stop_image_url": "https://stopsimg.cityflo.net/9f9e7c0f-a4dc-4217-9619-5a34424fb12d.jpg",
+          "stop_description": "At Kotak bank, Opposite to Jio garden. ",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "BKC",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "BKC"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/9f9e7c0f-a4dc-4217-9619-5a34424fb12d.jpg",
+            "https://stopsimg.cityflo.net/af7f7e36-fbbd-438f-b59e-40cec3ef8355.jpg",
+            "https://stopsimg.cityflo.net/81e3fbd0-66c5-443c-b886-e0d122d44e88.jpg"
+          ]
+        },
+        {
+          "stop_pk": 5297,
+          "stop_name": "SEBI",
+          "stop_image_url": "https://stopsimg.cityflo.net/55dc0d04-3f59-4edd-806e-4d829a57c19f.jpg",
+          "stop_description": "In front of the SEBI building",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "BKC",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "BKC"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/55dc0d04-3f59-4edd-806e-4d829a57c19f.jpg",
+            "https://stopsimg.cityflo.net/8e4f6be4-18d2-4e4a-9fb2-f2cc337ce8ca.jpg",
+            "https://stopsimg.cityflo.net/73b769d4-28a2-4d95-ae9c-16b3041739f8.jpg"
+          ]
+        },
+        {
+          "stop_pk": 5298,
+          "stop_name": "ICICI bus stop",
+          "stop_image_url": "https://stopsimg.cityflo.net/94dd8b52-c986-4b5f-8f8c-dcd05a32a0c8.jpg",
+          "stop_description": "Near HP Petrol pump, In front Of Asian Hospital",
+          "highlight_text": "light_yellow",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "BKC",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "BKC"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/94dd8b52-c986-4b5f-8f8c-dcd05a32a0c8.jpg",
+            "https://stopsimg.cityflo.net/0c79e3d4-905f-499b-bbef-034f99ef3f9a.jpg",
+            "https://stopsimg.cityflo.net/02ab3090-689c-4b55-9e2d-1f809661cc6a.jpg",
+            "https://stopsimg.cityflo.net/b26a810b-b85e-413d-98b3-83ee62c54b0a.jpg"
+          ]
+        },
+        {
+          "stop_pk": 9,
+          "stop_name": "Fire Station",
+          "stop_image_url": "https://stopsimg.cityflo.net/b81d32c0-ffe8-4a11-9a1e-026a95806b30.jpg",
+          "stop_description": "In front of KIA showroom at TCG Financial Centre",
+          "highlight_text": "big_black",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "BKC",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "BKC"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/b81d32c0-ffe8-4a11-9a1e-026a95806b30.jpg",
+            "https://stopsimg.cityflo.net/6c469903-ddfa-4bb7-9f0c-f5c7946fa097.jpg",
+            "https://stopsimg.cityflo.net/f45f92c2-5e36-46a8-8488-1999fb363002.jpg",
+            "https://stopsimg.cityflo.net/e371671f-96e9-4388-9b4a-832dd6d67887.jpg"
+          ]
+        },
+        {
+          "stop_pk": 5299,
+          "stop_name": "Jio World Centre",
+          "stop_image_url": "https://stopsimg.cityflo.net/85012cbc-4109-4e64-98bf-2dacbc8a2291.jpg",
+          "stop_description": "Opposite to gate no 19,  Jio World Centre",
+          "highlight_text": "no_highlight",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "BKC",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "BKC"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/85012cbc-4109-4e64-98bf-2dacbc8a2291.jpg",
+            "https://stopsimg.cityflo.net/d4c1ae6b-a243-4272-acd8-238b519fa7f8.jpg",
+            "https://stopsimg.cityflo.net/b046bafa-0acc-467d-b1e0-d19f32a6ec80.jpg"
+          ]
+        },
+        {
+          "stop_pk": 5300,
+          "stop_name": "ONGC",
+          "stop_image_url": "https://stopsimg.cityflo.net/6011ff67-1379-4236-bfe1-5154e455fc6f.jpg",
+          "stop_description": "At ONGC best bus stop",
+          "highlight_text": "no_highlight",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "BKC",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "BKC"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/6011ff67-1379-4236-bfe1-5154e455fc6f.jpg",
+            "https://stopsimg.cityflo.net/e1e29e2c-9d78-427e-b584-898991966df6.jpg",
+            "https://stopsimg.cityflo.net/eb6bacfd-a671-464e-85e6-f34a7262078c.jpg"
+          ]
+        },
+        {
+          "stop_pk": 73,
+          "stop_name": "RBI",
+          "stop_image_url": "https://stopsimg.cityflo.net/1f312189-aba7-432f-ace4-f76fe657833d.jpg",
+          "stop_description": "In front of RBI office.",
+          "highlight_text": "no_highlight",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "BKC",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "BKC"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/1f312189-aba7-432f-ace4-f76fe657833d.jpg",
+            "https://stopsimg.cityflo.net/6098707d-5213-42e4-8cf0-ef18bdda95fd.jpg",
+            "https://stopsimg.cityflo.net/71a9b25a-cf37-4b05-b801-a65fd6e78e07.jpg"
+          ]
+        },
+        {
+          "stop_pk": 24,
+          "stop_name": "Family court signal",
+          "stop_image_url": "https://stopsimg.cityflo.net/23edc432-87d7-4f52-a3f2-c68644553b84.jpg",
+          "stop_description": "In front of Mahanagar Gas Ltd., before the Family Court signal",
+          "highlight_text": "no_highlight",
+          "stop_location_details": {
+            "lat": "[REDACTED]",
+            "lng": "[REDACTED]",
+            "geohash_locality": {
+              "hub": "BKC",
+              "locality": null,
+              "locality_type": null,
+              "hub_display_name": "BKC"
+            }
+          },
+          "is_pano_view_available": true,
+          "stop_images": [
+            "https://stopsimg.cityflo.net/23edc432-87d7-4f52-a3f2-c68644553b84.jpg",
+            "https://stopsimg.cityflo.net/f2839f32-87c2-4603-a34a-5f6c3bd56a74.jpg",
+            "https://stopsimg.cityflo.net/8f29cc0c-4352-45c9-878d-bd4720fa304a.jpg"
+          ]
+        }
+      ],
+      "polyline": "syqsBuba|LPLPLRLPLZRXPZRXRZPZRXPZRRNPNRNRNRNPNRNRNRLPNRNRNRNPNRNRNNLNLNJNLVRNUHSJQBGDFDH?BIX?JLRLPLJLJNHLJLJLJNHLJPJPJHBTAVIHINRMRMRSVVVXVNJPJNLLLNJNLNLLLNJNLVTVTNLNLNLNLPJNLNLNLNLNLPLNLNLNLPLNLNJNLPLNLNLNLPLNLNJNLNJNLNJNJNLNJNLPJNLPJZTZR\\TZRVEXCHWFWHWHWJ]J_@J]H_@J]J]J_@J]JULUJULUPUPUV[XYTYT[VYTYJQJSLQJQHUHUHUFUHUHUHUHUHUJUHUJUN]P[LMLMRPPNPNLDPD\\ARCPCRCPERCRCPCRCPBP@RPRNLNLNNNLN?N@`@B`@DRBRDRDRJRJPNPNRPPNPRRPRRPRRTNRPTNRNTNTPRNTNLJNJLHNJLJNJLHNJLQNQLQNQFSFSCGEQBQNWPGP?NFJJDN?RAHABTTVTTRVTLJLLLJLJPNNNPNPNJJLJLLLJLJLLLJLJJLLJLJLJLLLJLJLLLJNLNLPLNLRPTPRPTRRPTPRPTPZP\\PRHPFRHRFRHRHRHRHTHRHRHRH\\N\\L\\N\\LTFVHTFVF\\N\\NNHNJNHNHNHNJNHNHTPTPTNTPTRVPTPRRTPTPTPRRTPTPRRRPRRRPNRPPJPJRLPJPL`@J\\D^F\\BV@XBV@VBVBX@VBV?^@^?^@^?V@V?V?V@T?V@V?V?^A\\?^?^JRJRRFRFPHPFPHPFPHPFPHPHPFPHPFPHPFPHPFPHZJ\\HRJTJPHPHRHPHXNXNZNXNPFPHPFPHPFPFPHPFZJZHRJPFRDPFRDNFPDRDVFVHVFVHVFVFVHVF\\N\\L^N\\L^NPFRDPFRFPDRFPDRFPDNDPDNFPDPDNDPDXHVFXHXFTFTDVFTDHPJPJNHLJNJLLRJRLRJRLPLRJRLRFLB^NTNTHNJNHLJNHNJNHLJNHNJNHLJNHNJNHLJNJNHNJLHNJNJNHNJNJLHNJNHNJNJLHNJNPXPXPXNXPVPXPXPXLRJRLRLRLRJRLRLRLRJRLRLRLRJRLRLRT\\R\\T\\T\\TZR\\T\\T\\LPLPLNJPLPLPLNLPLPLPLNJPLPLPLNLPLPLPLPLRNPLPLPLPLPLPLPLRNPLPLPLPRXPXRVRXRXPXRVRXPTNTPTPTPTNTPTPTPTNTPTPTPTNTPTPTLRNRLPNRTZTZTXTZNXPVLZJZLXLZL\\L^L\\L\\HPHNHPHNHPHNHPHNJVDRFRDRFRDRFRDRFRJVJTF`@H`@B^D^FZH\\H^H\\H\\H\\J\\J^J\\J^J\\J^J\\J^J\\FRDTFRFTFRDRFTFRFVHXFVHXFVHVFXHVFRDPFRFRDPFRFRDRFPFRFRDPFRFRDPFRJVLTCB?L@VH^J^H\\J^HXFXHXFXHVFXHXFXHXHXFXHXFVHXFXHXF^F\\?X?VCPCRKZOTMTMRORMTMROTOTOTOTMPMPMROPMPMPMRMPU\\SZU\\S\\U\\SZU\\S\\QTQVOTQTQVQTOVQTSXSZQXSZKNMNKNKNONQLQLQNQL[NYNWHWHWHWHUHWHWHWHSFSDQFSF_@L_@L_@N_@LSFSFSFSFYBWDU@S@U@S@S@S@S@S?S@S@S@S@Y@Y@W@Y@YBY@W@Y@SBSPMlI[FW@YBW@WBY@[@Y@Y@W@W@W@W@Q@S?Q@Q?Q@S@Q?Q@GPK^K^I^K\\K^K^I^K^K\\I^K\\I^K\\I^K\\I^IXGZCTCTIAYEYGQGQGQGQG[MYO[Q[QWQWSWUUWOQMSOQMSK[OUMUKOIOKOKOIQKOIOKOO_@O_@MUMWKSMSKSKSKUMSKSKSKSMSKSKSKUMSKSKSOWOWMYOWOWOWMYOWMUKSMUMUKUMSMUKUMSMUKUMUMSKUMUMSKUMUKUMSMUKUMUMSKUMUMSKUMUMUKSMUKSZSNILKNININILKNILINILKNILININKLINILINKLINIPIHLJLJLJLJLLLJLJLJLLNNPLNNPLNNNLPNNNNLNNNNPNNLNNNNNLFTCVAVAVAVAVAXAZAXAZAXAZAXAZAR?P?R?R?^A`@?XAXCXAVAXAXCXAXAPERCPDPD\\P^P\\P^R\\P^P\\P^PVLXLRJPHRJPJRHRJPHRJPNPLVZFPFPDVFV@R@T@R?R@R@T@R@R?R@RC^A^A\\?\\?T@R?T@T?R@T?R@T@\\B\\@\\B\\JXNN@X@X@V@X@R@R@R?R@P@R@R@RA^MRMRKRMRMTMRKRMRIPINIPINIPIPINIPININIPINININIPINYXIVIXQ\\O\\KTDVFRFRFRFRHRHPHRHPJRHPHRHPFVB^@\\?\\@Z@\\B\\DZFTFTFRFTT\\T\\NRPRNPPRRTTVRTRVTTRTTVRTJLJLLLJLJLJLLLJLPRPTRRPRPRPTRRPRPRPTRRPRPRPTRRPR"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+    "status": 200,
+    "host": "maps.googleapis.com",
+    "responseJson": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://maps.googleapis.com/maps/api/mapsjs/mapConfigs:batchGet?language=en-IN&region=US&alt=protojson&major_version=66&minor_version=6c&map_ids=acd98828cca3e7527c8d77ea&map_type=1",
+    "status": 200,
+    "host": "maps.googleapis.com",
+    "responseJson": [
+      [
+        [
+          "acd98828cca3e7527c8d77ea",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          [
+            [
+              null,
+              "11783100833063425208",
+              null,
+              [
+                [
+                  2,
+                  3
+                ]
+              ],
+              [
+                47083502,
+                56565656
+              ]
+            ],
+            [
+              null,
+              null,
+              []
+            ],
+            [
+              [
+                12,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-Terrain-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                37,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationHighDetail-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                21,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-Roadmap-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                47,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationAmbientDark-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                50,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationEgmm-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                54,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationTunnelLowLight-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                4,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-Navigation-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                55,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationGlasses-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                18,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-TransitFocused-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                15,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-RoadmapAmbiactive-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                44,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-TerrainVectorClient-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                33,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-RoadmapDark-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                29,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-TerrainDark-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                58,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationAmbientTunnel-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                26,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-Roadmap-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                53,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationTunnel-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                10,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-Roadmap-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                17,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationLowLight-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                9,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-RoadmapAmbiactive-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                20,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-RouteOverview-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                13,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-Navigation-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                57,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationMinMode-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                25,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-BasemapEditingSatellite-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                5,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationLowLight-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                38,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationHighDetailLowLight-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                19,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-Roadmap-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                48,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-AirQualityHeatmap-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                30,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-TransitFocusedDark-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                14,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-Navigation-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                43,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationSatellite-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                31,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-Roadmap-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                1,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-RoadmapSatellite-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                32,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-RoadmapDark-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                28,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-RouteOverviewDark-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                16,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-RoadmapAmbiactiveLowBit-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                41,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-Travel-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                51,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationEgmmLowLight-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                59,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationAmbientDarkTunnel-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                27,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-RoadmapDark-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                45,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-TerrainVectorClientDark-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                8,
+                "https://mapsresources-pa.googleapis.com/v1/styleTables/942effca23fe2f8c4b59a0f3?configVersion=aea3aca6cca1f31a5291e4e745a18476&configSet=roadmap&version=sdk-5420881525584425886"
+              ],
+              [
+                2,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-RoadmapSatellite-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                60,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationMinModeAuto-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                52,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationEgmmSatellite-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                42,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-TravelDark-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                49,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-AirQualityHeatmapDark-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                23,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationAmbientDark-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                56,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-ImmersiveView-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                6,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationSatellite-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                3,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-RoadmapSatellite-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                22,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationAmbient-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                7,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-Roadmap-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                11,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-RoadmapSatellite-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ],
+              [
+                46,
+                "https://www.gstatic.com/maps/res/CompactLegendSdk-NavigationAmbient-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-aea3aca6cca1f31a5291e4e745a18476"
+              ]
+            ],
+            2,
+            null,
+            "https://mapsresources-pa.googleapis.com/v1/tiles?map_id=acd98828cca3e7527c8d77ea&version=5420881525584425886&"
+          ],
+          [
+            "acd98828cca3e7527c8d77ea",
+            null,
+            2,
+            null,
+            [
+              [
+                2,
+                1,
+                null,
+                [
+                  null,
+                  "466513486232817889",
+                  null,
+                  null,
+                  [
+                    47083502,
+                    56565656
+                  ]
+                ],
+                "https://mapsresources-pa.googleapis.com/v1/styleTables/942effca23fe2f8c1bb684d5?configVersion=aea3aca6cca1f31a5291e4e745a18476&configSet=roadmap_dark&version=sdk-786779709727666457",
+                "https://mapsresources-pa.googleapis.com/v1/tiles?map_id=acd98828cca3e7527c8d77ea&version=786779709727666457&sdk_map_variant=2&",
+                null,
+                null,
+                "466513486232817889"
+              ],
+              [
+                6,
+                1,
+                null,
+                [
+                  null,
+                  "466513486232817889",
+                  null,
+                  null,
+                  [
+                    47083502,
+                    56565656
+                  ]
+                ],
+                "https://mapsresources-pa.googleapis.com/v1/styleTables/942effca23fe2f8c1bb684d5?configVersion=aea3aca6cca1f31a5291e4e745a18476&configSet=terrain_dark&version=sdk-786779709727666457",
+                "https://mapsresources-pa.googleapis.com/v1/tiles?map_id=acd98828cca3e7527c8d77ea&version=786779709727666457&sdk_map_variant=6&",
+                null,
+                null,
+                "466513486232817889"
+              ],
+              [
+                11,
+                1,
+                null,
+                [
+                  null,
+                  "466513486232817889",
+                  null,
+                  null,
+                  [
+                    47083502,
+                    56565656
+                  ]
+                ],
+                "https://mapsresources-pa.googleapis.com/v1/styleTables/942effca23fe2f8c1bb684d5?configVersion=aea3aca6cca1f31a5291e4e745a18476&configSet=terrain_vector_client_dark&version=sdk-786779709727666457",
+                "https://mapsresources-pa.googleapis.com/v1/tiles?map_id=acd98828cca3e7527c8d77ea&version=786779709727666457&sdk_map_variant=11&",
+                null,
+                null,
+                "466513486232817889"
+              ],
+              [
+                13,
+                1,
+                null,
+                [
+                  null,
+                  "466513486232817889",
+                  null,
+                  null,
+                  [
+                    47083502,
+                    56565656
+                  ]
+                ],
+                "https://mapsresources-pa.googleapis.com/v1/styleTables/942effca23fe2f8c1bb684d5?configVersion=aea3aca6cca1f31a5291e4e745a18476&configSet=transit_focused_dark&version=sdk-786779709727666457",
+                "https://mapsresources-pa.googleapis.com/v1/tiles?map_id=acd98828cca3e7527c8d77ea&version=786779709727666457&sdk_map_variant=13&",
+                null,
+                null,
+                "466513486232817889"
+              ],
+              [
+                1,
+                1,
+                null,
+                [
+                  null,
+                  "11783100833063425208",
+                  null,
+                  [
+                    [
+                      2,
+                      3
+                    ]
+                  ],
+                  [
+                    47083502,
+                    56565656
+                  ]
+                ],
+                "https://mapsresources-pa.googleapis.com/v1/styleTables/942effca23fe2f8c4b59a0f3?configVersion=aea3aca6cca1f31a5291e4e745a18476&configSet=roadmap&version=sdk-5420881525584425886",
+                "https://mapsresources-pa.googleapis.com/v1/tiles?map_id=acd98828cca3e7527c8d77ea&version=5420881525584425886&",
+                null,
+                null,
+                "11783100833063425208"
+              ],
+              [
+                5,
+                1,
+                null,
+                [
+                  null,
+                  "11783100833063425208",
+                  null,
+                  [
+                    [
+                      2,
+                      3
+                    ]
+                  ],
+                  [
+                    47083502,
+                    56565656
+                  ]
+                ],
+                "https://mapsresources-pa.googleapis.com/v1/styleTables/942effca23fe2f8c4b59a0f3?configVersion=aea3aca6cca1f31a5291e4e745a18476&configSet=terrain&version=sdk-5420881525584425886",
+                "https://mapsresources-pa.googleapis.com/v1/tiles?map_id=acd98828cca3e7527c8d77ea&version=5420881525584425886&sdk_map_variant=5&",
+                null,
+                null,
+                "11783100833063425208"
+              ],
+              [
+                10,
+                1,
+                null,
+                [
+                  null,
+                  "11783100833063425208",
+                  null,
+                  [
+                    [
+                      2,
+                      3
+                    ]
+                  ],
+                  [
+                    47083502,
+                    56565656
+                  ]
+                ],
+                "https://mapsresources-pa.googleapis.com/v1/styleTables/942effca23fe2f8c4b59a0f3?configVersion=aea3aca6cca1f31a5291e4e745a18476&configSet=terrain_vector_client&version=sdk-5420881525584425886",
+                "https://mapsresources-pa.googleapis.com/v1/tiles?map_id=acd98828cca3e7527c8d77ea&version=5420881525584425886&sdk_map_variant=10&",
+                null,
+                null,
+                "11783100833063425208"
+              ],
+              [
+                7,
+                1,
+                null,
+                [
+                  null,
+                  "11783100833063425208",
+                  null,
+                  [
+                    [
+                      2,
+                      3
+                    ]
+                  ],
+                  [
+                    47083502,
+                    56565656
+                  ]
+                ],
+                "https://mapsresources-pa.googleapis.com/v1/styleTables/942effca23fe2f8c4b59a0f3?configVersion=aea3aca6cca1f31a5291e4e745a18476&configSet=roadmap_satellite&version=sdk-5420881525584425886",
+                "https://mapsresources-pa.googleapis.com/v1/tiles?map_id=acd98828cca3e7527c8d77ea&version=5420881525584425886&sdk_map_variant=7&",
+                null,
+                null,
+                "11783100833063425208"
+              ],
+              [
+                14,
+                1,
+                null,
+                [
+                  null,
+                  "11783100833063425208",
+                  null,
+                  [
+                    [
+                      2,
+                      3
+                    ]
+                  ],
+                  [
+                    47083502,
+                    56565656
+                  ]
+                ],
+                "https://mapsresources-pa.googleapis.com/v1/styleTables/942effca23fe2f8c4b59a0f3?configVersion=aea3aca6cca1f31a5291e4e745a18476&configSet=roadmap_satellite&version=sdk-5420881525584425886",
+                "https://mapsresources-pa.googleapis.com/v1/tiles?map_id=acd98828cca3e7527c8d77ea&version=5420881525584425886&sdk_map_variant=14&",
+                null,
+                null,
+                "11783100833063425208"
+              ],
+              [
+                12,
+                1,
+                null,
+                [
+                  null,
+                  "11783100833063425208",
+                  null,
+                  [
+                    [
+                      2,
+                      3
+                    ]
+                  ],
+                  [
+                    47083502,
+                    56565656
+                  ]
+                ],
+                "https://mapsresources-pa.googleapis.com/v1/styleTables/942effca23fe2f8c4b59a0f3?configVersion=aea3aca6cca1f31a5291e4e745a18476&configSet=transit_focused&version=sdk-5420881525584425886",
+                "https://mapsresources-pa.googleapis.com/v1/tiles?map_id=acd98828cca3e7527c8d77ea&version=5420881525584425886&sdk_map_variant=12&",
+                null,
+                null,
+                "11783100833063425208"
+              ]
+            ],
+            null,
+            [
+              14,
+              11,
+              2,
+              1,
+              7,
+              10
+            ]
+          ]
+        ]
+      ],
+      "CgASsUUInAYSnQEIARKYAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstUm9hZG1hcFNhdGVsbGl0ZS1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2Ep0BCAISmAFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXBTYXRlbGxpdGUtRW5oYW5jZWROYXZTdHlsZUhvbGRiYWNrRm9yR2VvRC1GZXRjaGFibGVTdHlsZVNldFNkay1hZWEzYWNhNmNjYTFmMzFhNTI5MWU0ZTc0NWExODQ3NhKdAQgDEpgBaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1Sb2FkbWFwU2F0ZWxsaXRlLUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSlwEIBBKSAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstTmF2aWdhdGlvbi1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2Ep8BCAUSmgFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLU5hdmlnYXRpb25Mb3dMaWdodC1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2EqABCAYSmwFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLU5hdmlnYXRpb25TYXRlbGxpdGUtRW5oYW5jZWROYXZTdHlsZUhvbGRiYWNrRm9yR2VvRC1GZXRjaGFibGVTdHlsZVNldFNkay1hZWEzYWNhNmNjYTFmMzFhNTI5MWU0ZTc0NWExODQ3NhKUAQgHEo8BaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1Sb2FkbWFwLUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSlAEICBKPAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstUm9hZG1hcC1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2Ep4BCAkSmQFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXBBbWJpYWN0aXZlLUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSlAEIChKPAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstUm9hZG1hcC1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2Ep0BCAsSmAFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXBTYXRlbGxpdGUtRW5oYW5jZWROYXZTdHlsZUhvbGRiYWNrRm9yR2VvRC1GZXRjaGFibGVTdHlsZVNldFNkay1hZWEzYWNhNmNjYTFmMzFhNTI5MWU0ZTc0NWExODQ3NhKUAQgMEo8BaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1UZXJyYWluLUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSlwEIDRKSAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstTmF2aWdhdGlvbi1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2EpcBCA4SkgFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLU5hdmlnYXRpb24tRW5oYW5jZWROYXZTdHlsZUhvbGRiYWNrRm9yR2VvRC1GZXRjaGFibGVTdHlsZVNldFNkay1hZWEzYWNhNmNjYTFmMzFhNTI5MWU0ZTc0NWExODQ3NhKeAQgPEpkBaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1Sb2FkbWFwQW1iaWFjdGl2ZS1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2EqQBCBASnwFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXBBbWJpYWN0aXZlTG93Qml0LUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSnwEIERKaAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstTmF2aWdhdGlvbkxvd0xpZ2h0LUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSmwEIEhKWAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstVHJhbnNpdEZvY3VzZWQtRW5oYW5jZWROYXZTdHlsZUhvbGRiYWNrRm9yR2VvRC1GZXRjaGFibGVTdHlsZVNldFNkay1hZWEzYWNhNmNjYTFmMzFhNTI5MWU0ZTc0NWExODQ3NhKUAQgTEo8BaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1Sb2FkbWFwLUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSmgEIFBKVAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstUm91dGVPdmVydmlldy1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2EpQBCBUSjwFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXAtRW5oYW5jZWROYXZTdHlsZUhvbGRiYWNrRm9yR2VvRC1GZXRjaGFibGVTdHlsZVNldFNkay1hZWEzYWNhNmNjYTFmMzFhNTI5MWU0ZTc0NWExODQ3NhKeAQgWEpkBaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1OYXZpZ2F0aW9uQW1iaWVudC1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2EqIBCBcSnQFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLU5hdmlnYXRpb25BbWJpZW50RGFyay1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2EqQBCBkSnwFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLUJhc2VtYXBFZGl0aW5nU2F0ZWxsaXRlLUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSlAEIGhKPAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstUm9hZG1hcC1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2EpgBCBsSkwFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXBEYXJrLUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSngEIHBKZAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstUm91dGVPdmVydmlld0RhcmstRW5oYW5jZWROYXZTdHlsZUhvbGRiYWNrRm9yR2VvRC1GZXRjaGFibGVTdHlsZVNldFNkay1hZWEzYWNhNmNjYTFmMzFhNTI5MWU0ZTc0NWExODQ3NhKYAQgdEpMBaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1UZXJyYWluRGFyay1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2Ep8BCB4SmgFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVRyYW5zaXRGb2N1c2VkRGFyay1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2EpQBCB8SjwFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXAtRW5oYW5jZWROYXZTdHlsZUhvbGRiYWNrRm9yR2VvRC1GZXRjaGFibGVTdHlsZVNldFNkay1hZWEzYWNhNmNjYTFmMzFhNTI5MWU0ZTc0NWExODQ3NhKYAQggEpMBaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1Sb2FkbWFwRGFyay1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2EpgBCCESkwFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXBEYXJrLUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSoQEIJRKcAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstTmF2aWdhdGlvbkhpZ2hEZXRhaWwtRW5oYW5jZWROYXZTdHlsZUhvbGRiYWNrRm9yR2VvRC1GZXRjaGFibGVTdHlsZVNldFNkay1hZWEzYWNhNmNjYTFmMzFhNTI5MWU0ZTc0NWExODQ3NhKpAQgmEqQBaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1OYXZpZ2F0aW9uSGlnaERldGFpbExvd0xpZ2h0LUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSkwEIKRKOAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstVHJhdmVsLUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSlwEIKhKSAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstVHJhdmVsRGFyay1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2EqABCCsSmwFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLU5hdmlnYXRpb25TYXRlbGxpdGUtRW5oYW5jZWROYXZTdHlsZUhvbGRiYWNrRm9yR2VvRC1GZXRjaGFibGVTdHlsZVNldFNkay1hZWEzYWNhNmNjYTFmMzFhNTI5MWU0ZTc0NWExODQ3NhKgAQgsEpsBaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1UZXJyYWluVmVjdG9yQ2xpZW50LUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSpAEILRKfAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstVGVycmFpblZlY3RvckNsaWVudERhcmstRW5oYW5jZWROYXZTdHlsZUhvbGRiYWNrRm9yR2VvRC1GZXRjaGFibGVTdHlsZVNldFNkay1hZWEzYWNhNmNjYTFmMzFhNTI5MWU0ZTc0NWExODQ3NhKeAQguEpkBaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1OYXZpZ2F0aW9uQW1iaWVudC1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2EqIBCC8SnQFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLU5hdmlnYXRpb25BbWJpZW50RGFyay1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2Ep4BCDASmQFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLUFpclF1YWxpdHlIZWF0bWFwLUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSogEIMRKdAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstQWlyUXVhbGl0eUhlYXRtYXBEYXJrLUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSmwEIMhKWAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstTmF2aWdhdGlvbkVnbW0tRW5oYW5jZWROYXZTdHlsZUhvbGRiYWNrRm9yR2VvRC1GZXRjaGFibGVTdHlsZVNldFNkay1hZWEzYWNhNmNjYTFmMzFhNTI5MWU0ZTc0NWExODQ3NhKjAQgzEp4BaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1OYXZpZ2F0aW9uRWdtbUxvd0xpZ2h0LUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSpAEINBKfAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstTmF2aWdhdGlvbkVnbW1TYXRlbGxpdGUtRW5oYW5jZWROYXZTdHlsZUhvbGRiYWNrRm9yR2VvRC1GZXRjaGFibGVTdHlsZVNldFNkay1hZWEzYWNhNmNjYTFmMzFhNTI5MWU0ZTc0NWExODQ3NhKdAQg1EpgBaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1OYXZpZ2F0aW9uVHVubmVsLUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSpQEINhKgAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstTmF2aWdhdGlvblR1bm5lbExvd0xpZ2h0LUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSngEINxKZAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstTmF2aWdhdGlvbkdsYXNzZXMtRW5oYW5jZWROYXZTdHlsZUhvbGRiYWNrRm9yR2VvRC1GZXRjaGFibGVTdHlsZVNldFNkay1hZWEzYWNhNmNjYTFmMzFhNTI5MWU0ZTc0NWExODQ3NhKaAQg4EpUBaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1JbW1lcnNpdmVWaWV3LUVuaGFuY2VkTmF2U3R5bGVIb2xkYmFja0Zvckdlb0QtRmV0Y2hhYmxlU3R5bGVTZXRTZGstYWVhM2FjYTZjY2ExZjMxYTUyOTFlNGU3NDVhMTg0NzYSngEIORKZAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstTmF2aWdhdGlvbk1pbk1vZGUtRW5oYW5jZWROYXZTdHlsZUhvbGRiYWNrRm9yR2VvRC1GZXRjaGFibGVTdHlsZVNldFNkay1hZWEzYWNhNmNjYTFmMzFhNTI5MWU0ZTc0NWExODQ3NhKkAQg6Ep8BaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1OYXZpZ2F0aW9uQW1iaWVudFR1bm5lbC1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2EqgBCDsSowFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLU5hdmlnYXRpb25BbWJpZW50RGFya1R1bm5lbC1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2EqIBCDwSnQFodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLU5hdmlnYXRpb25NaW5Nb2RlQXV0by1FbmhhbmNlZE5hdlN0eWxlSG9sZGJhY2tGb3JHZW9ELUZldGNoYWJsZVN0eWxlU2V0U2RrLWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2IiBhZWEzYWNhNmNjYTFmMzFhNTI5MWU0ZTc0NWExODQ3NigBMnJodHRwczovL3d3dy5nb29nbGUuY29tL21hcHMvdnQvc3hmb3Jtcz92PWFlYTNhY2E2Y2NhMWYzMWE1MjkxZTRlNzQ1YTE4NDc2JnN0eWxlcl9zdWJ0eXBlPVNUWUxFUl9MRUdFTkRfU1VCVFlQRV9TREs6YAougHyAeIB0gHCAbIBogGSAYIBcgFiAVIBQgEyASIBEgECAPIA4gDSAMIAsgCiAJBIECAAQABIECAEQARIECAIQAhINCAMQ////////////ARINCAQQ/v//////////AUIDc2RrOOmOtBY464i4FjiYv/waOOqQ8yI="
+    ]
+  },
+  {
+    "method": "POST",
+    "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+    "status": 200,
+    "host": "maps.googleapis.com",
+    "requestJson": [
+      [
+        [
+          19.0690132930286,
+          72.86430274600754
+        ],
+        [
+          19.136897929234834,
+          72.97598392170165
+        ]
+      ],
+      14,
+      null,
+      "en-IN",
+      0,
+      "m@796000000",
+      0,
+      0,
+      null,
+      null,
+      null,
+      1,
+      "https://app.cityflostaging.com/booking/ride-type",
+      1,
+      null,
+      "acd98828cca3e7527c8d77ea",
+      "B1BA7B10-49C9-4584-A998-7386E8B73B3F"
+    ],
+    "responseJson": [
+      "Map data ©2026 Google",
+      [
+        [
+          "report_map_issue",
+          [
+            [
+              19.062117883514652,
+              72.861328125
+            ],
+            [
+              19.14516819620529,
+              73.037109375
+            ]
+          ]
+        ],
+        [
+          "traffic",
+          [
+            [
+              19.134789188332526,
+              72.861328125
+            ],
+            [
+              19.139978773834496,
+              72.9766845703125
+            ]
+          ]
+        ],
+        [
+          "traffic",
+          [
+            [
+              19.129599439736836,
+              72.861328125
+            ],
+            [
+              19.134789188332526,
+              72.9766845703125
+            ]
+          ]
+        ],
+        [
+          "traffic",
+          [
+            [
+              19.124409528084872,
+              72.861328125
+            ],
+            [
+              19.129599439736836,
+              72.9766845703125
+            ]
+          ]
+        ],
+        [
+          "traffic",
+          [
+            [
+              19.1192194534141,
+              72.861328125
+            ],
+            [
+              19.124409528084872,
+              72.9766845703125
+            ]
+          ]
+        ],
+        [
+          "traffic",
+          [
+            [
+              19.114029215761988,
+              72.861328125
+            ],
+            [
+              19.1192194534141,
+              72.9766845703125
+            ]
+          ]
+        ],
+        [
+          "traffic",
+          [
+            [
+              19.108838815166006,
+              72.861328125
+            ],
+            [
+              19.114029215761988,
+              72.9766845703125
+            ]
+          ]
+        ],
+        [
+          "traffic",
+          [
+            [
+              19.10364825166364,
+              72.861328125
+            ],
+            [
+              19.108838815166006,
+              72.9766845703125
+            ]
+          ]
+        ],
+        [
+          "traffic",
+          [
+            [
+              19.09845752529238,
+              72.861328125
+            ],
+            [
+              19.10364825166364,
+              72.9766845703125
+            ]
+          ]
+        ],
+        [
+          "traffic",
+          [
+            [
+              19.09326663608971,
+              72.861328125
+            ],
+            [
+              19.09845752529238,
+              72.9766845703125
+            ]
+          ]
+        ],
+        [
+          "traffic",
+          [
+            [
+              19.088075584093136,
+              72.861328125
+            ],
+            [
+              19.09326663608971,
+              72.9766845703125
+            ]
+          ]
+        ],
+        [
+          "traffic",
+          [
+            [
+              19.08288436934016,
+              72.861328125
+            ],
+            [
+              19.088075584093136,
+              72.9766845703125
+            ]
+          ]
+        ],
+        [
+          "traffic",
+          [
+            [
+              19.0776929918683,
+              72.861328125
+            ],
+            [
+              19.08288436934016,
+              72.9766845703125
+            ]
+          ]
+        ],
+        [
+          "traffic",
+          [
+            [
+              19.072501451715084,
+              72.861328125
+            ],
+            [
+              19.0776929918683,
+              72.9766845703125
+            ]
+          ]
+        ],
+        [
+          "traffic",
+          [
+            [
+              19.067309748918017,
+              72.861328125
+            ],
+            [
+              19.072501451715084,
+              72.9766845703125
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          19,
+          [
+            [
+              -90,
+              -180
+            ],
+            [
+              90,
+              180
+            ]
+          ]
+        ],
+        [
+          9,
+          [
+            [
+              -90,
+              -180
+            ],
+            [
+              90,
+              180
+            ]
+          ]
+        ],
+        [
+          13,
+          [
+            [
+              -57.000160199999996,
+              -180
+            ],
+            [
+              83.68852609999999,
+              180
+            ]
+          ]
+        ],
+        [
+          14,
+          [
+            [
+              -57.000074299999994,
+              -180
+            ],
+            [
+              83.6884403,
+              180
+            ]
+          ]
+        ],
+        [
+          16,
+          [
+            [
+              13.499987099999998,
+              72.4999809
+            ],
+            [
+              22.000014699999994,
+              79.9999952
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.945922800000005,
+              72.9437255
+            ],
+            [
+              20.5499267,
+              73.1799316
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.435058499999997,
+              72.70751949999999
+            ],
+            [
+              20.061035099999998,
+              72.927246
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.945922800000005,
+              72.65808099999995
+            ],
+            [
+              20.0500488,
+              72.91625970000001
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.945922800000005,
+              72.7020263
+            ],
+            [
+              20.0500488,
+              72.9437255
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.847045800000004,
+              72.96569820000002
+            ],
+            [
+              20.27526850000001,
+              73.14147939999995
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              19.11071770000001,
+              72.94921870000005
+            ],
+            [
+              19.742431600000003,
+              73.32275390000001
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.956909100000004,
+              72.83386230000002
+            ],
+            [
+              20.039062500000004,
+              73.04260249999999
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.550415,
+              72.89428709999999
+            ],
+            [
+              19.550170800000004,
+              73.11950680000001
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.86901850000001,
+              72.77343750000001
+            ],
+            [
+              19.7204589,
+              73.0371093
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.910217200000005,
+              72.85583489999999
+            ],
+            [
+              20.305480899999992,
+              73.0151367
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.572387600000003,
+              72.88330070000002
+            ],
+            [
+              19.522704999999988,
+              73.11401359999998
+            ]
+          ]
+        ],
+        [
+          18,
+          [
+            [
+              17.973632800000004,
+              72.94921870000005
+            ],
+            [
+              19.16015619999999,
+              73.125
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              19.077758700000004,
+              72.756958
+            ],
+            [
+              20.264282199999982,
+              72.93273920000001
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              19.083251899999993,
+              72.89428709999999
+            ],
+            [
+              20.264282199999982,
+              73.0700683
+            ]
+          ]
+        ],
+        [
+          13,
+          [
+            [
+              18.5541915,
+              72.7253723
+            ],
+            [
+              19.541244500000005,
+              72.93273920000001
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.890991200000006,
+              72.91625970000001
+            ],
+            [
+              19.98413079999999,
+              73.09753409999999
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.5614013,
+              72.8503417
+            ],
+            [
+              19.52819819999999,
+              73.0535888
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.970641999999998,
+              72.97119140000001
+            ],
+            [
+              20.025329499999998,
+              73.15521239999998
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.566894500000004,
+              72.8503417
+            ],
+            [
+              19.440307599999983,
+              73.0700683
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.275756799999982,
+              72.8063964
+            ],
+            [
+              19.3634033,
+              72.98217769999997
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.896484299999997,
+              72.77343750000001
+            ],
+            [
+              19.9786376,
+              72.94921870000005
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.956909100000004,
+              72.69103999999999
+            ],
+            [
+              19.8825073,
+              72.89428709999999
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.5614013,
+              72.84484859999998
+            ],
+            [
+              19.539184500000008,
+              73.0371093
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.932189899999997,
+              72.86682120000003
+            ],
+            [
+              20.291748,
+              73.00415029999996
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.956909100000004,
+              72.8503417
+            ],
+            [
+              20.033569299999982,
+              73.0206298
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.57788079999999,
+              72.72399900000002
+            ],
+            [
+              19.517211900000007,
+              72.91076659999999
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.555908200000005,
+              72.94921870000005
+            ],
+            [
+              19.550170800000004,
+              73.125
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.748168899999982,
+              72.7926635
+            ],
+            [
+              19.616088800000004,
+              72.99316400000001
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.945922800000005,
+              72.82836910000002
+            ],
+            [
+              20.033569299999982,
+              72.98767079999999
+            ]
+          ]
+        ],
+        [
+          14,
+          [
+            [
+              18.571701000000004,
+              72.87360189999998
+            ],
+            [
+              19.519357600000006,
+              73.05599210000003
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.572387600000003,
+              72.69103999999999
+            ],
+            [
+              19.423828099999994,
+              72.8887939
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.506469699999982,
+              72.87780759999998
+            ],
+            [
+              19.451293899999982,
+              73.0535888
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.5614013,
+              72.73498529999998
+            ],
+            [
+              19.539184500000008,
+              72.89978020000001
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.57788079999999,
+              72.86132810000001
+            ],
+            [
+              19.517211900000007,
+              73.0316162
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.57788079999999,
+              72.72399900000002
+            ],
+            [
+              19.517211900000007,
+              72.89428709999999
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.575134199999994,
+              72.71575919999998
+            ],
+            [
+              19.52819819999999,
+              72.88330070000002
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.566894500000004,
+              72.72399900000002
+            ],
+            [
+              19.533691399999995,
+              72.8860473
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.550415,
+              72.95471189999998
+            ],
+            [
+              19.434814399999993,
+              73.1304931
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.566894500000004,
+              72.69103999999999
+            ],
+            [
+              19.423828099999994,
+              72.87231439999996
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.564147899999995,
+              72.71301260000003
+            ],
+            [
+              19.533691399999995,
+              72.87231439999996
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.566894500000004,
+              72.8118896
+            ],
+            [
+              19.41833489999999,
+              72.99316400000001
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.687744100000003,
+              72.73498529999998
+            ],
+            [
+              19.500732400000004,
+              72.9217529
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.572387600000003,
+              72.7185058
+            ],
+            [
+              19.522704999999988,
+              72.87780759999998
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              19.017333899999997,
+              72.91076659999999
+            ],
+            [
+              19.57214350000001,
+              73.16894529999999
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.8745117,
+              72.70751949999999
+            ],
+            [
+              19.55566400000002,
+              72.9052734
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.80859369999999,
+              72.83935539999999
+            ],
+            [
+              19.539184500000008,
+              73.0206298
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.726196200000004,
+              72.9052734
+            ],
+            [
+              19.396362299999993,
+              73.10028070000001
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.86901850000001,
+              72.78442380000001
+            ],
+            [
+              19.390869100000003,
+              73.0316162
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.797607400000004,
+              72.8887939
+            ],
+            [
+              19.53643790000001,
+              73.06182859999998
+            ]
+          ]
+        ],
+        [
+          14,
+          [
+            [
+              18.68576999999999,
+              72.73198120000004
+            ],
+            [
+              19.341773899999993,
+              72.92424199999999
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.544921799999997,
+              72.75146480000001
+            ],
+            [
+              19.182128899999995,
+              72.94921870000005
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.797607400000004,
+              72.8887939
+            ],
+            [
+              19.533691399999995,
+              73.05908199999999
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.564147899999995,
+              72.92999259999999
+            ],
+            [
+              19.399108799999993,
+              73.07830810000002
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.52844230000001,
+              72.93273920000001
+            ],
+            [
+              19.077758700000004,
+              73.15795889999998
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.81683340000002,
+              72.89703359999996
+            ],
+            [
+              19.539184500000008,
+              73.06732169999998
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.8745117,
+              72.76794430000001
+            ],
+            [
+              19.281005799999992,
+              73.0700683
+            ]
+          ]
+        ],
+        [
+          14,
+          [
+            [
+              18.533420500000005,
+              72.7605628
+            ],
+            [
+              19.165820999999994,
+              72.95170779999998
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.962402300000022,
+              72.94921870000005
+            ],
+            [
+              19.16015619999999,
+              73.54248039999999
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.811340299999998,
+              72.7185058
+            ],
+            [
+              19.517211900000007,
+              72.88330070000002
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.962402300000022,
+              72.7954101
+            ],
+            [
+              19.182128899999995,
+              73.32275390000001
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.6328125,
+              72.72949210000004
+            ],
+            [
+              19.291992099999987,
+              72.9052734
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.80859369999999,
+              72.77343750000001
+            ],
+            [
+              19.52819819999999,
+              72.93273920000001
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.797607400000004,
+              72.83935539999999
+            ],
+            [
+              19.533691399999995,
+              72.99316400000001
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.855285600000016,
+              72.75146480000001
+            ],
+            [
+              19.5776367,
+              72.90802
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.544921799999997,
+              72.97119140000001
+            ],
+            [
+              19.1162109,
+              73.16894529999999
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.742675700000007,
+              72.73498529999998
+            ],
+            [
+              19.423828099999994,
+              72.89978020000001
+            ]
+          ]
+        ],
+        [
+          14,
+          [
+            [
+              18.903264899999996,
+              72.7785015
+            ],
+            [
+              19.279460900000004,
+              73.07144160000001
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.978881799999982,
+              72.84484859999998
+            ],
+            [
+              19.5062255,
+              73.0535888
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.80859369999999,
+              72.76794430000001
+            ],
+            [
+              19.522704999999988,
+              72.9217529
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.748168899999982,
+              72.9244995
+            ],
+            [
+              19.371643000000006,
+              73.09753409999999
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.80859369999999,
+              72.89428709999999
+            ],
+            [
+              19.517211900000007,
+              73.04260249999999
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.970641999999998,
+              72.67456049999998
+            ],
+            [
+              19.5062255,
+              72.86956779999997
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.85253900000002,
+              72.91625970000001
+            ],
+            [
+              19.388122499999994,
+              73.11126700000003
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.962402300000022,
+              72.97119140000001
+            ],
+            [
+              19.55566400000002,
+              73.1469726
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.88000480000001,
+              72.82012929999999
+            ],
+            [
+              19.6051025,
+              72.9629516
+            ]
+          ]
+        ],
+        [
+          14,
+          [
+            [
+              19.092521600000012,
+              72.67189969999995
+            ],
+            [
+              19.273109399999996,
+              73.2394123
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              19.094238200000007,
+              72.97119140000001
+            ],
+            [
+              19.270019500000004,
+              73.54248039999999
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.847045800000004,
+              72.69103999999999
+            ],
+            [
+              19.2645263,
+              72.927246
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.9596557,
+              72.8530883
+            ],
+            [
+              19.5309448,
+              73.0206298
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              19.072265599999998,
+              72.86132810000001
+            ],
+            [
+              19.270019500000004,
+              73.34472650000001
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.737182599999986,
+              72.927246
+            ],
+            [
+              19.2727661,
+              73.09753409999999
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.745422300000016,
+              72.809143
+            ],
+            [
+              19.259033200000005,
+              72.97943109999997
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.9129638,
+              72.78991689999995
+            ],
+            [
+              19.2370605,
+              73.04809569999998
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.82507319999999,
+              72.8118896
+            ],
+            [
+              19.193115199999994,
+              73.0316162
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.775634699999998,
+              72.7185058
+            ],
+            [
+              19.094238200000007,
+              72.97119140000001
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.918457000000004,
+              72.77343750000001
+            ],
+            [
+              19.270019500000004,
+              72.99316400000001
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.86901850000001,
+              72.81738279999999
+            ],
+            [
+              19.3853759,
+              72.9629516
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              18.877258299999994,
+              72.8118896
+            ],
+            [
+              19.3743896,
+              72.9629516
+            ]
+          ]
+        ],
+        [
+          14,
+          [
+            [
+              18.860864600000014,
+              72.85617819999999
+            ],
+            [
+              19.410352700000004,
+              72.98672669999999
+            ]
+          ]
+        ],
+        [
+          14,
+          [
+            [
+              18.9127922,
+              72.76245109999996
+            ],
+            [
+              19.4894027,
+              72.88390149999998
+            ]
+          ]
+        ],
+        [
+          20,
+          [
+            [
+              19.1162109,
+              72.93548579999998
+            ],
+            [
+              19.602355899999992,
+              73.07830810000002
+            ]
+          ]
+        ],
+        [
+          15,
+          [
+            [
+              18.846316299999998,
+              72.96127790000003
+            ],
+            [
+              19.214100799999997,
+              73.14285269999999
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.951415999999995,
+              72.8118896
+            ],
+            [
+              19.242553700000002,
+              73.0371093
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.962402300000022,
+              72.70751949999999
+            ],
+            [
+              19.16015619999999,
+              73.0371093
+            ]
+          ]
+        ],
+        [
+          19,
+          [
+            [
+              18.945922800000005,
+              72.7789306
+            ],
+            [
+              19.259033200000005,
+              72.98217769999997
+            ]
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            "m",
+            [
+              14,
+              11503,
+              7301
+            ],
+            796562430
+          ],
+          [
+            "m",
+            [
+              14,
+              11504,
+              7301
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              14,
+              11505,
+              7301
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11506,
+              7301
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11507,
+              7301
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11508,
+              7301
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11509,
+              7301
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11510,
+              7301
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              14,
+              11511,
+              7301
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11512,
+              7301
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11513,
+              7301
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11514,
+              7301
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11515,
+              7301
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11516,
+              7301
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11517,
+              7301
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11518,
+              7301
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11503,
+              7302
+            ],
+            796562430
+          ],
+          [
+            "m",
+            [
+              14,
+              11504,
+              7302
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              14,
+              11505,
+              7302
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11506,
+              7302
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11507,
+              7302
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11508,
+              7302
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11509,
+              7302
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11510,
+              7302
+            ],
+            796562574
+          ],
+          [
+            "m",
+            [
+              14,
+              11511,
+              7302
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11512,
+              7302
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11513,
+              7302
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11514,
+              7302
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11515,
+              7302
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11516,
+              7302
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11517,
+              7302
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11518,
+              7302
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11503,
+              7303
+            ],
+            796562430
+          ],
+          [
+            "m",
+            [
+              14,
+              11504,
+              7303
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              14,
+              11505,
+              7303
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              14,
+              11506,
+              7303
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11507,
+              7303
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11508,
+              7303
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11509,
+              7303
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11510,
+              7303
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11511,
+              7303
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11512,
+              7303
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11513,
+              7303
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11514,
+              7303
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11515,
+              7303
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11516,
+              7303
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11517,
+              7303
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11518,
+              7303
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11503,
+              7304
+            ],
+            796562178
+          ],
+          [
+            "m",
+            [
+              14,
+              11504,
+              7304
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              14,
+              11505,
+              7304
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              14,
+              11506,
+              7304
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11507,
+              7304
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11508,
+              7304
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11509,
+              7304
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11510,
+              7304
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11511,
+              7304
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11512,
+              7304
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11513,
+              7304
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11514,
+              7304
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11515,
+              7304
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11516,
+              7304
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              14,
+              11517,
+              7304
+            ],
+            796562520
+          ],
+          [
+            "m",
+            [
+              14,
+              11518,
+              7304
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              14,
+              11503,
+              7305
+            ],
+            796562178
+          ],
+          [
+            "m",
+            [
+              14,
+              11504,
+              7305
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              14,
+              11505,
+              7305
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              14,
+              11506,
+              7305
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11507,
+              7305
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11508,
+              7305
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11509,
+              7305
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11510,
+              7305
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11511,
+              7305
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11512,
+              7305
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11513,
+              7305
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11514,
+              7305
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11515,
+              7305
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11516,
+              7305
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11517,
+              7305
+            ],
+            796562574
+          ],
+          [
+            "m",
+            [
+              14,
+              11518,
+              7305
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              14,
+              11503,
+              7306
+            ],
+            796499065
+          ],
+          [
+            "m",
+            [
+              14,
+              11504,
+              7306
+            ],
+            796562052
+          ],
+          [
+            "m",
+            [
+              14,
+              11505,
+              7306
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11506,
+              7306
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11507,
+              7306
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11508,
+              7306
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11509,
+              7306
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11510,
+              7306
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11511,
+              7306
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11512,
+              7306
+            ],
+            796562520
+          ],
+          [
+            "m",
+            [
+              14,
+              11513,
+              7306
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11514,
+              7306
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11515,
+              7306
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11516,
+              7306
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11517,
+              7306
+            ],
+            796562574
+          ],
+          [
+            "m",
+            [
+              14,
+              11518,
+              7306
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              14,
+              11503,
+              7307
+            ],
+            796527174
+          ],
+          [
+            "m",
+            [
+              14,
+              11504,
+              7307
+            ],
+            796562052
+          ],
+          [
+            "m",
+            [
+              14,
+              11505,
+              7307
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11506,
+              7307
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11507,
+              7307
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11508,
+              7307
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11509,
+              7307
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11510,
+              7307
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11511,
+              7307
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11512,
+              7307
+            ],
+            796562574
+          ],
+          [
+            "m",
+            [
+              14,
+              11513,
+              7307
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11514,
+              7307
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11515,
+              7307
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11516,
+              7307
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11517,
+              7307
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11518,
+              7307
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11503,
+              7308
+            ],
+            796553472
+          ],
+          [
+            "m",
+            [
+              14,
+              11504,
+              7308
+            ],
+            796562376
+          ],
+          [
+            "m",
+            [
+              14,
+              11505,
+              7308
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11506,
+              7308
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11507,
+              7308
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11508,
+              7308
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11509,
+              7308
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11510,
+              7308
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11511,
+              7308
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11512,
+              7308
+            ],
+            796562574
+          ],
+          [
+            "m",
+            [
+              14,
+              11513,
+              7308
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11514,
+              7308
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11515,
+              7308
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11516,
+              7308
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11517,
+              7308
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11518,
+              7308
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11503,
+              7309
+            ],
+            796562052
+          ],
+          [
+            "m",
+            [
+              14,
+              11504,
+              7309
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11505,
+              7309
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11506,
+              7309
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11507,
+              7309
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11508,
+              7309
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11509,
+              7309
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11510,
+              7309
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              14,
+              11511,
+              7309
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              14,
+              11512,
+              7309
+            ],
+            796562574
+          ],
+          [
+            "m",
+            [
+              14,
+              11513,
+              7309
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              14,
+              11514,
+              7309
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11515,
+              7309
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11516,
+              7309
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11517,
+              7309
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11518,
+              7309
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11503,
+              7310
+            ],
+            796562052
+          ],
+          [
+            "m",
+            [
+              14,
+              11504,
+              7310
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11505,
+              7310
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11506,
+              7310
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11507,
+              7310
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11508,
+              7310
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11509,
+              7310
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11510,
+              7310
+            ],
+            796562520
+          ],
+          [
+            "m",
+            [
+              14,
+              11511,
+              7310
+            ],
+            796562520
+          ],
+          [
+            "m",
+            [
+              14,
+              11512,
+              7310
+            ],
+            796562520
+          ],
+          [
+            "m",
+            [
+              14,
+              11513,
+              7310
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              14,
+              11514,
+              7310
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11515,
+              7310
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11516,
+              7310
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11517,
+              7310
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              14,
+              11518,
+              7310
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5751,
+              3650
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              13,
+              5752,
+              3650
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              13,
+              5753,
+              3650
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5754,
+              3650
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5755,
+              3650
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5756,
+              3650
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5757,
+              3650
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5758,
+              3650
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5759,
+              3650
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5751,
+              3651
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5752,
+              3651
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5753,
+              3651
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5754,
+              3651
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5755,
+              3651
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5756,
+              3651
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5757,
+              3651
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5758,
+              3651
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5759,
+              3651
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5751,
+              3652
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5752,
+              3652
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5753,
+              3652
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5754,
+              3652
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5755,
+              3652
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5756,
+              3652
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5757,
+              3652
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5758,
+              3652
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5759,
+              3652
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5751,
+              3653
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5752,
+              3653
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5753,
+              3653
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5754,
+              3653
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5755,
+              3653
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5756,
+              3653
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5757,
+              3653
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5758,
+              3653
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5759,
+              3653
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5751,
+              3654
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5752,
+              3654
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5753,
+              3654
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5754,
+              3654
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5755,
+              3654
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5756,
+              3654
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5757,
+              3654
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5758,
+              3654
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5759,
+              3654
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5751,
+              3655
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5752,
+              3655
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5753,
+              3655
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5754,
+              3655
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5755,
+              3655
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5756,
+              3655
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5757,
+              3655
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5758,
+              3655
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              13,
+              5759,
+              3655
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23013,
+              14607
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23014,
+              14607
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23015,
+              14607
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23016,
+              14607
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23017,
+              14607
+            ],
+            796562520
+          ],
+          [
+            "m",
+            [
+              15,
+              23018,
+              14607
+            ],
+            796562574
+          ],
+          [
+            "m",
+            [
+              15,
+              23019,
+              14607
+            ],
+            796562574
+          ],
+          [
+            "m",
+            [
+              15,
+              23020,
+              14607
+            ],
+            796562574
+          ],
+          [
+            "m",
+            [
+              15,
+              23021,
+              14607
+            ],
+            796562484
+          ],
+          [
+            "m",
+            [
+              15,
+              23022,
+              14607
+            ],
+            796562484
+          ],
+          [
+            "m",
+            [
+              15,
+              23023,
+              14607
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23024,
+              14607
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23025,
+              14607
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23026,
+              14607
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23027,
+              14607
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23028,
+              14607
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23013,
+              14608
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23014,
+              14608
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23015,
+              14608
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23016,
+              14608
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23017,
+              14608
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23018,
+              14608
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23019,
+              14608
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23020,
+              14608
+            ],
+            796562574
+          ],
+          [
+            "m",
+            [
+              15,
+              23021,
+              14608
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23022,
+              14608
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23023,
+              14608
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23024,
+              14608
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23025,
+              14608
+            ],
+            796562520
+          ],
+          [
+            "m",
+            [
+              15,
+              23026,
+              14608
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23027,
+              14608
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23028,
+              14608
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23013,
+              14609
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23014,
+              14609
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23015,
+              14609
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23016,
+              14609
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23017,
+              14609
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23018,
+              14609
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23019,
+              14609
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23020,
+              14609
+            ],
+            796562574
+          ],
+          [
+            "m",
+            [
+              15,
+              23021,
+              14609
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23022,
+              14609
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23023,
+              14609
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23024,
+              14609
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23025,
+              14609
+            ],
+            796562466
+          ],
+          [
+            "m",
+            [
+              15,
+              23026,
+              14609
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23027,
+              14609
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23028,
+              14609
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23013,
+              14610
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23014,
+              14610
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23015,
+              14610
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23016,
+              14610
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23017,
+              14610
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23018,
+              14610
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23019,
+              14610
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23020,
+              14610
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23021,
+              14610
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23022,
+              14610
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23023,
+              14610
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23024,
+              14610
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23025,
+              14610
+            ],
+            796560990
+          ],
+          [
+            "m",
+            [
+              15,
+              23026,
+              14610
+            ],
+            796562178
+          ],
+          [
+            "m",
+            [
+              15,
+              23027,
+              14610
+            ],
+            796562520
+          ],
+          [
+            "m",
+            [
+              15,
+              23028,
+              14610
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23013,
+              14611
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23014,
+              14611
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23015,
+              14611
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23016,
+              14611
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23017,
+              14611
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23018,
+              14611
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23019,
+              14611
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23020,
+              14611
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23021,
+              14611
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23022,
+              14611
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23023,
+              14611
+            ],
+            796562466
+          ],
+          [
+            "m",
+            [
+              15,
+              23024,
+              14611
+            ],
+            796562322
+          ],
+          [
+            "m",
+            [
+              15,
+              23025,
+              14611
+            ],
+            796560990
+          ],
+          [
+            "m",
+            [
+              15,
+              23026,
+              14611
+            ],
+            796562178
+          ],
+          [
+            "m",
+            [
+              15,
+              23027,
+              14611
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23028,
+              14611
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23013,
+              14612
+            ],
+            796562520
+          ],
+          [
+            "m",
+            [
+              15,
+              23014,
+              14612
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23015,
+              14612
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23016,
+              14612
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23017,
+              14612
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23018,
+              14612
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23019,
+              14612
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23020,
+              14612
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23021,
+              14612
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23022,
+              14612
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23023,
+              14612
+            ],
+            796562466
+          ],
+          [
+            "m",
+            [
+              15,
+              23024,
+              14612
+            ],
+            796562052
+          ],
+          [
+            "m",
+            [
+              15,
+              23025,
+              14612
+            ],
+            796556598
+          ],
+          [
+            "m",
+            [
+              15,
+              23026,
+              14612
+            ],
+            796562052
+          ],
+          [
+            "m",
+            [
+              15,
+              23027,
+              14612
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23028,
+              14612
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23013,
+              14613
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23014,
+              14613
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23015,
+              14613
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23016,
+              14613
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23017,
+              14613
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23018,
+              14613
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23019,
+              14613
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23020,
+              14613
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23021,
+              14613
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23022,
+              14613
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23023,
+              14613
+            ],
+            796562466
+          ],
+          [
+            "m",
+            [
+              15,
+              23024,
+              14613
+            ],
+            796562052
+          ],
+          [
+            "m",
+            [
+              15,
+              23025,
+              14613
+            ],
+            796529142
+          ],
+          [
+            "m",
+            [
+              15,
+              23026,
+              14613
+            ],
+            796562052
+          ],
+          [
+            "m",
+            [
+              15,
+              23027,
+              14613
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23028,
+              14613
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23013,
+              14614
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23014,
+              14614
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23015,
+              14614
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23016,
+              14614
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23017,
+              14614
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23018,
+              14614
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23019,
+              14614
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23020,
+              14614
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23021,
+              14614
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23022,
+              14614
+            ],
+            796562466
+          ],
+          [
+            "m",
+            [
+              15,
+              23023,
+              14614
+            ],
+            796562052
+          ],
+          [
+            "m",
+            [
+              15,
+              23024,
+              14614
+            ],
+            796562052
+          ],
+          [
+            "m",
+            [
+              15,
+              23025,
+              14614
+            ],
+            796562052
+          ],
+          [
+            "m",
+            [
+              15,
+              23026,
+              14614
+            ],
+            796562052
+          ],
+          [
+            "m",
+            [
+              15,
+              23027,
+              14614
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23028,
+              14614
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23013,
+              14615
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23014,
+              14615
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23015,
+              14615
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23016,
+              14615
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23017,
+              14615
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23018,
+              14615
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23019,
+              14615
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23020,
+              14615
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23021,
+              14615
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23022,
+              14615
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23023,
+              14615
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23024,
+              14615
+            ],
+            796562052
+          ],
+          [
+            "m",
+            [
+              15,
+              23025,
+              14615
+            ],
+            796562052
+          ],
+          [
+            "m",
+            [
+              15,
+              23026,
+              14615
+            ],
+            796562052
+          ],
+          [
+            "m",
+            [
+              15,
+              23027,
+              14615
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23028,
+              14615
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23013,
+              14616
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23014,
+              14616
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23015,
+              14616
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23016,
+              14616
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23017,
+              14616
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23018,
+              14616
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23019,
+              14616
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23020,
+              14616
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23021,
+              14616
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23022,
+              14616
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23023,
+              14616
+            ],
+            796562629
+          ],
+          [
+            "m",
+            [
+              15,
+              23024,
+              14616
+            ],
+            796562178
+          ],
+          [
+            "m",
+            [
+              15,
+              23025,
+              14616
+            ],
+            796562052
+          ],
+          [
+            "m",
+            [
+              15,
+              23026,
+              14616
+            ],
+            796562052
+          ],
+          [
+            "m",
+            [
+              15,
+              23027,
+              14616
+            ],
+            796562646
+          ],
+          [
+            "m",
+            [
+              15,
+              23028,
+              14616
+            ],
+            796562646
+          ]
+        ]
+      ],
+      0,
+      null,
+      [
+        85,
+        null,
+        null,
+        null,
+        0
+      ],
+      1,
+      [
+        3,
+        null,
+        "Google Maps JavaScript API error: RefererNotAllowedMapError\nhttps://developers.google.com/maps/documentation/javascript/error-messages#referer-not-allowed-map-error\nYour site URL to be authorized: https://app.cityflostaging.com/booking/ride-type"
+      ],
+      3
+    ]
+  },
+  {
+    "method": "GET",
+    "url": "https://api.cityflostaging.com/api/routes/get-product-offerings-between-stops?route_pk=6540&start_stop_pk=18907&end_stop_pk=9&start_stop_info_pk=876149&end_stop_info_pk=876143&vehicle_ride_pk=2194907",
+    "status": 200,
+    "host": "api.cityflostaging.com",
+    "responseJson": {
+      "subscription_fare": 109,
+      "normal_fare": 135,
+      "ride_textual_content": [
+        {
+          "header_tag": null,
+          "ride_message": {
+            "text": "Enjoy your first ride with an exclusive offer!",
+            "icon_image_url": "https://assets.cityflo.net/Modify-Ride-Icons/percentage.png"
+          },
+          "ride_type": "single",
+          "heading": "Book One-way ride",
+          "underlined_heading": "",
+          "content_details": [
+            {
+              "text": "Free rescheduling, Cancel anytime",
+              "subtext": null,
+              "icon_image_url": "https://assets.cityflo.net/Modify-Ride-Icons/Clock.png"
+            }
+          ],
+          "actual_price": 135,
+          "discount_price": 49,
+          "starting_fare": null,
+          "cta_text": "Proceed",
+          "surge_footer_data": null,
+          "note": null,
+          "cta_type": "primary",
+          "disable_cta": false
+        },
+        {
+          "header_tag": null,
+          "ride_message": null,
+          "ride_type": "subscription",
+          "heading": "Pre-booked rides",
+          "underlined_heading": null,
+          "content_details": [
+            {
+              "text": "No daily booking hassle & preferred seat",
+              "subtext": null,
+              "icon_image_url": "https://assets.cityflo.net/Modify-Ride-Icons/Seat.png"
+            },
+            {
+              "text": "Reschedule to any day, time for free or get full refund on cancellation",
+              "subtext": null,
+              "icon_image_url": "https://assets.cityflo.net/Modify-Ride-Icons/refund.png"
+            }
+          ],
+          "actual_price": 135,
+          "discount_price": 109,
+          "starting_fare": 109,
+          "cta_text": "Proceed",
+          "surge_footer_data": null,
+          "note": null,
+          "cta_type": "secondary",
+          "disable_cta": false,
+          "prefix_icon": "https://icons.cityflo.net/ride-pack/new_flexi_pass.png"
+        },
+        {
+          "header_tag": null,
+          "ride_message": null,
+          "ride_type": "lite_pack",
+          "heading": " Pack of rides",
+          "underlined_heading": "",
+          "content_details": [
+            {
+              "text": "Cheapest rides for every travel schedule",
+              "subtext": null,
+              "icon_image_url": "https://icons.cityflo.net/ride-pack/ride_pack_ride_type_cheapest.png"
+            },
+            {
+              "text": "Book ride anytime and cancel for free",
+              "subtext": null,
+              "icon_image_url": "https://icons.cityflo.net/ride-pack/ride_pack_ride_type_calendar.png"
+            },
+            {
+              "text": "Reschedule your bus timing for free",
+              "subtext": null,
+              "icon_image_url": "https://icons.cityflo.net/ride-pack/ride_pack_ride_type_clock.png"
+            }
+          ],
+          "actual_price": 49,
+          "discount_price": 49,
+          "starting_fare": null,
+          "cta_text": "Proceed",
+          "surge_footer_data": null,
+          "note": null,
+          "cta_type": "secondary",
+          "disable_cta": false,
+          "prefix_icon": "https://icons.cityflo.net/ride-pack/ride_pack_logo_active_ride_type_screen.png"
+        }
+      ]
+    }
+  }
+]

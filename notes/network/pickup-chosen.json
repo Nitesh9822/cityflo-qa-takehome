@@ -1,0 +1,26 @@
+[
+  {
+    "method": "GET",
+    "url": "https://api.cityflostaging.com/api/v2/routes/get-search-suggestions-for-customer/?session_token=%5BREDACTED%5D&time_of_day=2&search_type=pickup",
+    "status": 200,
+    "host": "api.cityflostaging.com",
+    "responseJson": {
+      "home": null,
+      "office": null,
+      "recent_history": [
+        {
+          "lat": "[REDACTED]",
+          "lng": "[REDACTED]",
+          "main_text": "Hiranandani Gardens",
+          "secondary_text": "Powai",
+          "geohash_locality": {
+            "hub": "Powai-Chandivali",
+            "locality": null,
+            "locality_type": null,
+            "hub_display_name": "Powai-Chandivali"
+          }
+        }
+      ]
+    }
+  }
+]

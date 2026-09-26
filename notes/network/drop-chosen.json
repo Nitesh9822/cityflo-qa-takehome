@@ -1,0 +1,19 @@
+[
+  {
+    "method": "GET",
+    "url": "https://api.cityflostaging.com/api/v2/routes/get-places-details/?place_id=ChIJG-qGC9_I5zsRlvK9G0vqfs4&description=Mumbai%2C+Maharashtra%2C+India&session_token=%5BREDACTED%5D",
+    "status": 200,
+    "host": "api.cityflostaging.com",
+    "responseJson": {
+      "lat": "[REDACTED]",
+      "lng": "[REDACTED]",
+      "address": "[REDACTED]",
+      "geohash_locality": {
+        "hub": "BKC",
+        "locality": null,
+        "locality_type": null,
+        "hub_display_name": "BKC"
+      }
+    }
+  }
+]

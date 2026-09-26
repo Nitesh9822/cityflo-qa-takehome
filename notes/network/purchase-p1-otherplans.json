@@ -1,0 +1,10 @@
+[
+  {
+    "type": "fetch",
+    "method": "POST",
+    "url": "https://ts-ingest.cityflo.net/v1/events/batch",
+    "status": 202,
+    "requestJson": "[analytics payload omitted]",
+    "responseJson": "[analytics response omitted]"
+  }
+]

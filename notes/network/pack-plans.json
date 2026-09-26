@@ -1,0 +1,315 @@
+[
+  {
+    "method": "GET",
+    "url": "https://api.cityflostaging.com/api/v2/rides/get-lite-pack-details-with-plans/?start_stop_info_pk=876149&end_stop_info_pk=876143&vehicle_ride_pk=2194907",
+    "status": 200,
+    "host": "api.cityflostaging.com",
+    "responseJson": {
+      "header": "Value pack with least commitment",
+      "sub_header": "Read here how a LITE pack works",
+      "logo_url": "https://icons.cityflo.net/ride-pack/ride_pack_logo_inactive.png",
+      "wallet_balance": 0,
+      "wallet_settlement_note": null,
+      "lite_pack_faq": {
+        "slug": "ride_pack_faqs",
+        "name": "Ride pack",
+        "category": "Ride pack"
+      },
+      "lite_pack_video": null,
+      "benefits": [
+        {
+          "title": [
+            {
+              "text": "Book your ride anytime",
+              "highlight": "false"
+            }
+          ],
+          "sub_title": "You can reserve your seat upto 5 days in advance",
+          "icon_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_seat.png",
+          "icon_image_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_seat.png"
+        },
+        {
+          "title": [
+            {
+              "text": "Ride anywhere",
+              "highlight": "false"
+            }
+          ],
+          "sub_title": "Go one-way or round trip on any available route",
+          "icon_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_location_2.png",
+          "icon_image_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_location_2.png"
+        },
+        {
+          "title": [
+            {
+              "text": "Reschedule your ride for free",
+              "highlight": "false"
+            }
+          ],
+          "sub_title": "Change your bus time or pickup / drop at no extra cost",
+          "icon_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_clock.png",
+          "icon_image_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_clock.png"
+        },
+        {
+          "title": [
+            {
+              "text": "Cancel your ride for free",
+              "highlight": "false"
+            }
+          ],
+          "sub_title": "Up to 30 min before departure",
+          "icon_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_cancel.png",
+          "icon_image_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_cancel.png"
+        }
+      ],
+      "plans": [
+        {
+          "plan_slug": "5-rides-30-days",
+          "no_of_rides": 5,
+          "cost_per_ride": 105,
+          "validity_days": 30,
+          "cost_per_ride_before_discount": 135,
+          "discount_percentage": 22,
+          "total_cost": 525,
+          "is_selected": true,
+          "is_hidden": false,
+          "tag_spec": {
+            "text": "Trial Offer",
+            "text_color": "#2B8064",
+            "bg_color": [
+              "#E6F0EC",
+              "#FFFFFF"
+            ]
+          },
+          "footer_text": "Ideal for 1 to 2 days/week travel",
+          "textual_content": {
+            "pack_name": "5 Rides Pack",
+            "validity": "Validity: 30 days",
+            "strike_out_price": "₹135",
+            "per_ride_price": "₹105/ride",
+            "total_cost_text": "₹525",
+            "discount_text": "Save 22%",
+            "footer_text": "Ideal for 1 to 2 days/week travel",
+            "applied_promo_code": null,
+            "available_codes": []
+          }
+        },
+        {
+          "plan_slug": "10-rides-30-days",
+          "no_of_rides": 10,
+          "cost_per_ride": 94,
+          "validity_days": 30,
+          "cost_per_ride_before_discount": 135,
+          "discount_percentage": 30,
+          "total_cost": 940,
+          "is_selected": false,
+          "is_hidden": false,
+          "tag_spec": {
+            "text": "Trial Offer",
+            "text_color": "#2B8064",
+            "bg_color": [
+              "#E6F0EC",
+              "#FFFFFF"
+            ]
+          },
+          "footer_text": "Ideal for 2 to 3 days/week travel",
+          "textual_content": {
+            "pack_name": "10 Rides Pack",
+            "validity": "Validity: 30 days",
+            "strike_out_price": "₹135",
+            "per_ride_price": "₹94/ride",
+            "total_cost_text": "₹940",
+            "discount_text": "Save 30%",
+            "footer_text": "Ideal for 2 to 3 days/week travel",
+            "applied_promo_code": null,
+            "available_codes": []
+          }
+        },
+        {
+          "plan_slug": "15-rides-30-days",
+          "no_of_rides": 15,
+          "cost_per_ride": 84,
+          "validity_days": 30,
+          "cost_per_ride_before_discount": 135,
+          "discount_percentage": 37,
+          "total_cost": 1260,
+          "is_selected": false,
+          "is_hidden": false,
+          "tag_spec": {
+            "text": "Trial Offer",
+            "text_color": "#2B8064",
+            "bg_color": [
+              "#E6F0EC",
+              "#FFFFFF"
+            ]
+          },
+          "footer_text": "Ideal for 2 to 3 days/week travel",
+          "textual_content": {
+            "pack_name": "15 Rides Pack",
+            "validity": "Validity: 30 days",
+            "strike_out_price": "₹135",
+            "per_ride_price": "₹84/ride",
+            "total_cost_text": "₹1260",
+            "discount_text": "Save 37%",
+            "footer_text": "Ideal for 2 to 3 days/week travel",
+            "applied_promo_code": null,
+            "available_codes": []
+          }
+        },
+        {
+          "plan_slug": "25-rides-30-days",
+          "no_of_rides": 25,
+          "cost_per_ride": 77,
+          "validity_days": 30,
+          "cost_per_ride_before_discount": 135,
+          "discount_percentage": 42,
+          "total_cost": 1925,
+          "is_selected": false,
+          "is_hidden": true,
+          "tag_spec": {
+            "text": "Trial Offer",
+            "text_color": "#2B8064",
+            "bg_color": [
+              "#E6F0EC",
+              "#FFFFFF"
+            ]
+          },
+          "footer_text": "Ideal for 3 to 4 days/week travel",
+          "textual_content": {
+            "pack_name": "25 Rides Pack",
+            "validity": "Validity: 30 days",
+            "strike_out_price": "₹135",
+            "per_ride_price": "₹77/ride",
+            "total_cost_text": "₹1925",
+            "discount_text": "Save 42%",
+            "footer_text": "Ideal for 3 to 4 days/week travel",
+            "applied_promo_code": null,
+            "available_codes": []
+          }
+        },
+        {
+          "plan_slug": "unlimited-rides-30-days",
+          "no_of_rides": 50,
+          "cost_per_ride": 59,
+          "validity_days": 30,
+          "cost_per_ride_before_discount": 135,
+          "discount_percentage": 56,
+          "total_cost": 2950,
+          "is_selected": false,
+          "is_hidden": true,
+          "tag_spec": {
+            "text": "Trial Offer",
+            "text_color": "#2B8064",
+            "bg_color": [
+              "#E6F0EC",
+              "#FFFFFF"
+            ]
+          },
+          "footer_text": "Ideal for daily travel",
+          "textual_content": {
+            "pack_name": "Unlimited Monthly",
+            "validity": "Validity: 30 days",
+            "strike_out_price": "₹135",
+            "per_ride_price": "₹59/ride",
+            "total_cost_text": "₹2950",
+            "discount_text": "Save 56%",
+            "footer_text": "Ideal for daily travel",
+            "applied_promo_code": null,
+            "available_codes": []
+          }
+        },
+        {
+          "plan_slug": "unlimited-rides-90-days",
+          "no_of_rides": 150,
+          "cost_per_ride": 49,
+          "validity_days": 90,
+          "cost_per_ride_before_discount": 135,
+          "discount_percentage": 63,
+          "total_cost": 7350,
+          "is_selected": false,
+          "is_hidden": true,
+          "tag_spec": {
+            "text": "Trial Offer",
+            "text_color": "#2B8064",
+            "bg_color": [
+              "#E6F0EC",
+              "#FFFFFF"
+            ]
+          },
+          "footer_text": "Ideal for daily travel",
+          "textual_content": {
+            "pack_name": "Unlimited Quarterly",
+            "validity": "Validity: 90 days",
+            "strike_out_price": "₹135",
+            "per_ride_price": "₹49/ride",
+            "total_cost_text": "₹7350",
+            "discount_text": "Save 63%",
+            "footer_text": "Ideal for daily travel",
+            "applied_promo_code": null,
+            "available_codes": []
+          }
+        },
+        {
+          "plan_slug": "unlimited-rides-180-days",
+          "no_of_rides": 300,
+          "cost_per_ride": 55,
+          "validity_days": 180,
+          "cost_per_ride_before_discount": 135,
+          "discount_percentage": 59,
+          "total_cost": 16500,
+          "is_selected": false,
+          "is_hidden": true,
+          "tag_spec": {
+            "text": "Trial Offer",
+            "text_color": "#2B8064",
+            "bg_color": [
+              "#E6F0EC",
+              "#FFFFFF"
+            ]
+          },
+          "footer_text": "Ideal for daily travel",
+          "textual_content": {
+            "pack_name": "5 Months + 1 Month Free",
+            "validity": "Validity: 180 days",
+            "strike_out_price": "₹135",
+            "per_ride_price": "₹55/ride",
+            "total_cost_text": "₹16500",
+            "discount_text": "Save 59%",
+            "footer_text": "Ideal for daily travel",
+            "applied_promo_code": null,
+            "available_codes": []
+          }
+        }
+      ],
+      "disallow_booking_note": null,
+      "lite_pack_active": false,
+      "is_renewal": false,
+      "renewal_mode": null,
+      "product_name": "RIDE",
+      "strike_out_price": "₹135",
+      "minimum_pack_price": "₹49/ride",
+      "note": {
+        "text": "Special fares to try out our Ride Packs",
+        "icon_url": "https://assets.cityflo.net/gift_icon.png"
+      },
+      "benefits_fine_print": "For unlimited passes, we have factored in travel on Saturdays. Actual fares may vary by route.",
+      "favourite_route": null
+    }
+  },
+  {
+    "method": "POST",
+    "url": "https://ts-ingest.cityflo.net/v1/events/batch",
+    "status": 202,
+    "host": "ts-ingest.cityflo.net",
+    "requestJson": "[analytics payload omitted]",
+    "responseJson": "[analytics response omitted]"
+  },
+  {
+    "method": "POST",
+    "url": "https://ts-ingest.cityflo.net/v1/events/batch",
+    "status": 202,
+    "host": "ts-ingest.cityflo.net",
+    "requestJson": "[analytics payload omitted]",
+    "responseJson": "[analytics response omitted]"
+  }
+]

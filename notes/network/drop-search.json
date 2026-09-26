@@ -1,0 +1,85 @@
+[
+  {
+    "method": "GET",
+    "url": "https://api.cityflostaging.com/api/v2/routes/get-search-suggestions-for-customer/?search_term=Bandra+Kurla+Complex&session_token=%5BREDACTED%5D&time_of_day=2&search_type=pickup",
+    "status": 200,
+    "host": "api.cityflostaging.com",
+    "responseJson": {
+      "recent_history": [
+        {
+          "lat": "[REDACTED]",
+          "lng": "[REDACTED]",
+          "main_text": "Bandra Kurla Complex",
+          "secondary_text": "Bandra East",
+          "geohash_locality": {
+            "hub": "BKC",
+            "locality": null,
+            "locality_type": null,
+            "hub_display_name": "BKC"
+          }
+        }
+      ],
+      "stops": [],
+      "places": [
+        {
+          "place_id": "ChIJG-qGC9_I5zsRlvK9G0vqfs4",
+          "main_text": "Bandra Kurla Complex, Bandra East",
+          "secondary_text": "Mumbai, Maharashtra, India",
+          "place_types": [
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "order": 1,
+          "description": "Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra, India"
+        },
+        {
+          "place_id": "EmNCYW5kcmEgS3VybGEgQ29tcGxleCBSb2FkLCBHIEJsb2NrIEJLQywgTU1SREEgQXJlYSwgS2FsaW5hLCBCYW5kcmEgRWFzdCwgTXVtYmFpLCBNYWhhcmFzaHRyYSwgSW5kaWEiLiosChQKEgnzqSAN58jnOxFgrMyYH7e5FhIUChIJ45e4iejI5zsR-H3Fe6navN0",
+          "main_text": "Bandra Kurla Complex Road",
+          "secondary_text": "G Block BKC, MMRDA Area, Kalina, Bandra East, Mumbai, Maharashtra, India",
+          "place_types": [
+            "0",
+            "0"
+          ],
+          "order": 2,
+          "description": "Bandra Kurla Complex Road, G Block BKC, MMRDA Area, Kalina, Bandra East, Mumbai, Maharashtra, India"
+        },
+        {
+          "place_id": "ChIJH95pjsTJ5zsRmflPc7DuWho",
+          "main_text": "Bandra Kurla Complex",
+          "secondary_text": "G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra, India",
+          "place_types": [
+            "0",
+            "0"
+          ],
+          "order": 3,
+          "description": "Bandra Kurla Complex, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra, India"
+        },
+        {
+          "place_id": "ChIJZ2UZvc3J5zsRweXHA-1fL4M",
+          "main_text": "Bandra Kurla Complex",
+          "secondary_text": "Sahar Road, Vijay Nagar, Andheri East, Mumbai, Maharashtra, India",
+          "place_types": [
+            "0",
+            "0"
+          ],
+          "order": 4,
+          "description": "Bandra Kurla Complex, Sahar Road, Vijay Nagar, Andheri East, Mumbai, Maharashtra, India"
+        },
+        {
+          "place_id": "ChIJ45e4iejI5zsR-H3Fe6navN0",
+          "main_text": "G Block BKC",
+          "secondary_text": "Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra, India",
+          "place_types": [
+            "0",
+            "0",
+            "0"
+          ],
+          "order": 5,
+          "description": "G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra, India"
+        }
+      ]
+    }
+  }
+]

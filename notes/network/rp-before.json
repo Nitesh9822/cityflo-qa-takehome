@@ -1,0 +1,105 @@
+[
+  {
+    "method": "GET",
+    "url": "https://api.cityflostaging.com/api/ride-protect/v1/summary/",
+    "status": 200,
+    "host": "api.cityflostaging.com",
+    "responseJson": {
+      "serviceable": false,
+      "opted_in": false,
+      "premium": 1,
+      "cover": {
+        "accidental_cover": 500000,
+        "hospitalisation_cover": 50000,
+        "opd_cover": 3000
+      },
+      "tnc_url": "https://app.cityflo.com/ride-protect/terms",
+      "policy_wording_url": "https://cityflo.com/ride-protect/policy-wording.pdf",
+      "helpdesk": {
+        "phone": "[REDACTED]",
+        "email": "[REDACTED]",
+        "portal_url": ""
+      },
+      "faq_slug": "ride-protect"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "https://api.cityflostaging.com/api/v2/rides/get-lite-pack-details-with-plans/",
+    "status": 200,
+    "host": "api.cityflostaging.com",
+    "responseJson": {
+      "header": "Value pack with least commitment",
+      "sub_header": "Read here how a LITE pack works",
+      "logo_url": "https://icons.cityflo.net/ride-pack/ride_pack_logo_inactive.png",
+      "wallet_balance": 0,
+      "wallet_settlement_note": null,
+      "lite_pack_faq": {
+        "slug": "ride_pack_faqs",
+        "name": "Ride pack",
+        "category": "Ride pack"
+      },
+      "lite_pack_video": null,
+      "benefits": [
+        {
+          "title": [
+            {
+              "text": "Book your ride anytime",
+              "highlight": "false"
+            }
+          ],
+          "sub_title": "You can reserve your seat upto 5 days in advance",
+          "icon_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_seat.png",
+          "icon_image_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_seat.png"
+        },
+        {
+          "title": [
+            {
+              "text": "Ride anywhere",
+              "highlight": "false"
+            }
+          ],
+          "sub_title": "Go one-way or round trip on any available route",
+          "icon_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_location_2.png",
+          "icon_image_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_location_2.png"
+        },
+        {
+          "title": [
+            {
+              "text": "Reschedule your ride for free",
+              "highlight": "false"
+            }
+          ],
+          "sub_title": "Change your bus time or pickup / drop at no extra cost",
+          "icon_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_clock.png",
+          "icon_image_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_clock.png"
+        },
+        {
+          "title": [
+            {
+              "text": "Cancel your ride for free",
+              "highlight": "false"
+            }
+          ],
+          "sub_title": "Up to 30 min before departure",
+          "icon_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_cancel.png",
+          "icon_image_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_cancel.png"
+        }
+      ],
+      "plans": [],
+      "disallow_booking_note": null,
+      "lite_pack_active": false,
+      "is_renewal": false,
+      "renewal_mode": null,
+      "product_name": "RIDE",
+      "strike_out_price": null,
+      "minimum_pack_price": null,
+      "note": {
+        "text": "0% users in your city are using Unlimited packs",
+        "icon_url": "https://assets.cityflo.net/users.png"
+      },
+      "benefits_fine_print": "For unlimited passes, we have factored in travel on Saturdays. Actual fares may vary by route.",
+      "favourite_route": null
+    }
+  }
+]

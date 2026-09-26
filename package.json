@@ -1,0 +1,19 @@
+{
+  "name": "cityflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "auth": "npx playwright codegen --channel=chrome --viewport-size=1280,900 --save-storage=auth.json https://app.cityflostaging.com"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3",
+    "typescript": "^7.0.2"
+  }
+}

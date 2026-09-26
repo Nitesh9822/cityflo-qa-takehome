@@ -1,0 +1,417 @@
+[
+  {
+    "method": "GET",
+    "url": "https://api.cityflostaging.com/api/v2/rides/seat-waitlist/active/",
+    "status": 200,
+    "host": "api.cityflostaging.com",
+    "responseJson": {
+      "entries": [],
+      "recently_confirmed": []
+    }
+  },
+  {
+    "method": "GET",
+    "url": "https://api.cityflostaging.com/api/v2/users/get-user-profile/",
+    "status": 200,
+    "host": "api.cityflostaging.com",
+    "responseJson": {
+      "first_name": "[REDACTED]",
+      "last_name": "[REDACTED]",
+      "mobile_number": "[REDACTED]",
+      "email": "[REDACTED]",
+      "email_verified": false,
+      "gender": null,
+      "dob": null,
+      "residential_address": null,
+      "office_address": null,
+      "office_start_time": null,
+      "office_end_time": null,
+      "send_promotional_sms": true,
+      "send_promotional_email": true,
+      "send_applozic_chat_pn": true,
+      "send_vibration_alarm_pn": true,
+      "send_whatsapp_communication": true,
+      "percent_completed": 33,
+      "profile_completion_text": "Your profile is 33% complete",
+      "profile_picture_url": null,
+      "signup_date": 1790388385,
+      "is_ets": false,
+      "search_v5_enabled": false,
+      "google_account": "[REDACTED]"
+    }
+  },
+  {
+    "method": "POST",
+    "url": "https://ts-ingest.cityflo.net/v1/decide",
+    "status": 200,
+    "host": "ts-ingest.cityflo.net",
+    "requestJson": "[analytics payload omitted]",
+    "responseJson": "[analytics response omitted]"
+  },
+  {
+    "method": "GET",
+    "url": "https://api.cityflostaging.com/api/ride-protect/v1/summary/",
+    "status": 200,
+    "host": "api.cityflostaging.com",
+    "responseJson": {
+      "serviceable": false,
+      "opted_in": false,
+      "premium": 1,
+      "cover": {
+        "accidental_cover": 500000,
+        "hospitalisation_cover": 50000,
+        "opd_cover": 3000
+      },
+      "tnc_url": "https://app.cityflo.com/ride-protect/terms",
+      "policy_wording_url": "https://cityflo.com/ride-protect/policy-wording.pdf",
+      "helpdesk": {
+        "phone": "[REDACTED]",
+        "email": "[REDACTED]",
+        "portal_url": ""
+      },
+      "faq_slug": "ride-protect"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "https://api.cityflostaging.com/api/users/get-home-data-main/",
+    "status": 200,
+    "host": "api.cityflostaging.com",
+    "responseJson": {
+      "has_unread_notifications": false,
+      "unread_notifications_count": 0,
+      "transit_enabled": true,
+      "show_renew": false,
+      "has_ticket_update": false,
+      "customer_support_number": "02248931231",
+      "feedback_ride": null,
+      "has_active_subscription": false,
+      "show_app_review": false,
+      "navbar_item": {
+        "icon": "https://icons.cityflo.net/cityflo-cabs/navelement.png",
+        "action_url": "https://staging.cityflo-royale-web.pages.dev/?token=[JWT]",
+        "analytics_data": {
+          "event_name": "clicked_on_luxe",
+          "event_property": {
+            "source": "Home Nav Bar"
+          }
+        }
+      },
+      "customer_delight_illustration": null,
+      "bottom_tabs": [
+        {
+          "name": "Home",
+          "slug": "home"
+        },
+        {
+          "name": "Ride Pack",
+          "slug": "ride_pack"
+        },
+        {
+          "name": "Flexi Pass",
+          "slug": "subscription"
+        },
+        {
+          "name": "Support",
+          "slug": "support"
+        },
+        {
+          "name": "More",
+          "slug": "more"
+        }
+      ],
+      "has_more_badge": true,
+      "sageai_support": true,
+      "live_chat_start_time": "06:00 AM",
+      "live_chat_end_time": "10:00 PM",
+      "pack_badge": ""
+    }
+  },
+  {
+    "method": "GET",
+    "url": "https://api.cityflostaging.com/api/v2/ondc/transit/tickets/",
+    "status": 200,
+    "host": "api.cityflostaging.com",
+    "responseJson": {
+      "tickets": [],
+      "scheduled_journeys": []
+    }
+  },
+  {
+    "method": "GET",
+    "url": "https://api.cityflostaging.com/api/v2/rides/get-lite-pack-details-with-plans/",
+    "status": 200,
+    "host": "api.cityflostaging.com",
+    "responseJson": {
+      "header": "Value pack with least commitment",
+      "sub_header": "Read here how a LITE pack works",
+      "logo_url": "https://icons.cityflo.net/ride-pack/ride_pack_logo_inactive.png",
+      "wallet_balance": 0,
+      "wallet_settlement_note": null,
+      "lite_pack_faq": {
+        "slug": "ride_pack_faqs",
+        "name": "Ride pack",
+        "category": "Ride pack"
+      },
+      "lite_pack_video": null,
+      "benefits": [
+        {
+          "title": [
+            {
+              "text": "Book your ride anytime",
+              "highlight": "false"
+            }
+          ],
+          "sub_title": "You can reserve your seat upto 5 days in advance",
+          "icon_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_seat.png",
+          "icon_image_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_seat.png"
+        },
+        {
+          "title": [
+            {
+              "text": "Ride anywhere",
+              "highlight": "false"
+            }
+          ],
+          "sub_title": "Go one-way or round trip on any available route",
+          "icon_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_location_2.png",
+          "icon_image_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_location_2.png"
+        },
+        {
+          "title": [
+            {
+              "text": "Reschedule your ride for free",
+              "highlight": "false"
+            }
+          ],
+          "sub_title": "Change your bus time or pickup / drop at no extra cost",
+          "icon_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_clock.png",
+          "icon_image_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_clock.png"
+        },
+        {
+          "title": [
+            {
+              "text": "Cancel your ride for free",
+              "highlight": "false"
+            }
+          ],
+          "sub_title": "Up to 30 min before departure",
+          "icon_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_cancel.png",
+          "icon_image_url": "https://icons.cityflo.net/ride-pack/ride_pack_detail_cancel.png"
+        }
+      ],
+      "plans": [],
+      "disallow_booking_note": null,
+      "lite_pack_active": false,
+      "is_renewal": false,
+      "renewal_mode": null,
+      "product_name": "RIDE",
+      "strike_out_price": null,
+      "minimum_pack_price": null,
+      "note": {
+        "text": "0% users in your city are using Unlimited packs",
+        "icon_url": "https://assets.cityflo.net/users.png"
+      },
+      "benefits_fine_print": "For unlimited passes, we have factored in travel on Saturdays. Actual fares may vary by route.",
+      "favourite_route": null
+    }
+  },
+  {
+    "method": "GET",
+    "url": "https://api.cityflostaging.com/api/users/get-home-screen-data/?time_of_day=2",
+    "status": 200,
+    "host": "api.cityflostaging.com",
+    "responseJson": {
+      "address_section": "[REDACTED]",
+      "waitlist_info": null,
+      "upcoming_rides": [],
+      "has_more_upcoming_rides": false,
+      "ride_nudges": [],
+      "prompt": {
+        "pk": null,
+        "icon": "https://icons.cityflo.net/cityflo-cabs/innova.png",
+        "title": [
+          {
+            "text": "Launching Cityflo LUXE Cabs",
+            "text_style": "body_Paragraph_SemiBold",
+            "text_color": "#D5AB41"
+          }
+        ],
+        "content": [
+          {
+            "text": "Book chauffeured cabs for hourly rentals, airport and outstation trips",
+            "text_style": "body_Small",
+            "text_color": "#FFFFFF"
+          }
+        ],
+        "bg_color": [
+          "#0B2130",
+          "#1F435F"
+        ],
+        "border_color": [
+          "#00253F",
+          "#471128"
+        ],
+        "icon_size": 24,
+        "cta": {
+          "type": "SecondarySmall",
+          "action_url": "https://staging.cityflo-royale-web.pages.dev/?token=[JWT]",
+          "text": "Book",
+          "button_color": "#FFFFFF"
+        },
+        "helper_video": null,
+        "has_seen": false,
+        "show_shimmer": false,
+        "analytics_data": {
+          "event_property": {
+            "type": "Luxe Cabs",
+            "path": "Home"
+          },
+          "event_name": "clicked_on_luxe_cabs_nudge"
+        },
+        "prompt_seen_analytics_data": {
+          "event_property": {
+            "type": "Luxe Cabs",
+            "path": "Home"
+          },
+          "event_name": "luxe_cabs_nudge_seen"
+        }
+      },
+      "new_prompts": [
+        {
+          "title": [
+            {
+              "text": "New to Cityflo?",
+              "text_color": "#231F20",
+              "text_style": "heading_5"
+            }
+          ],
+          "cta_text": "See how it works",
+          "subtitle": [
+            {
+              "text": "Search, pick a ride, and book your AC bus seat in seconds",
+              "text_color": "#231F20",
+              "text_style": "body_Small"
+            }
+          ],
+          "image_url": "https://assets.cityflo.net/banner_prompts/260327173921_How_it_works_Nudge_plain.png",
+          "analytics_data": null,
+          "cta_action_url": "https://www.cityflo.com/how-it-works",
+          "title_width_ratio": 0.62,
+          "subtitle_width_ratio": 0.62,
+          "prompt_seen_analytics_data": null
+        }
+      ],
+      "rain_data": null,
+      "num_free_rides": 0,
+      "anti_anxiety_videos": [
+        {
+          "thumbnail_url": "https://assets.cityflo.net/anti-anxiety-videos/1.BoardingTheBus.png",
+          "video_url": "https://assets.cityflo.net/anti-anxiety-videos/1.BoardingTheBus.mp4",
+          "title": "How do I book a Cityflo ride?",
+          "timestamp": "0:17"
+        },
+        {
+          "thumbnail_url": "https://assets.cityflo.net/anti-anxiety-videos/2.GettingToStop.png",
+          "video_url": "https://assets.cityflo.net/anti-anxiety-videos/2.GettingToStop.mp4",
+          "title": "How do I get to my stop?",
+          "timestamp": "0:27"
+        },
+        {
+          "thumbnail_url": "https://assets.cityflo.net/anti-anxiety-videos/3.IdentifyingTheBus.png",
+          "video_url": "https://assets.cityflo.net/anti-anxiety-videos/3.IdentifyingTheBus.mp4",
+          "title": "How do I identify my bus?",
+          "timestamp": "0:23"
+        },
+        {
+          "thumbnail_url": "https://assets.cityflo.net/anti-anxiety-videos/4.ReachingOnTime.png",
+          "video_url": "https://assets.cityflo.net/anti-anxiety-videos/4.ReachingOnTime.mp4",
+          "title": "Will I reach work on time?",
+          "timestamp": "0:34"
+        },
+        {
+          "thumbnail_url": "https://assets.cityflo.net/anti-anxiety-videos/5.GettingDown.png",
+          "video_url": "https://assets.cityflo.net/anti-anxiety-videos/5.GettingDown.mp4",
+          "title": "How do I know where to get down?",
+          "timestamp": "0:18"
+        }
+      ],
+      "anti_anxiety_videos_titles": [
+        "How to Ride with Cityflo",
+        "Got Questions? Watch Our Playlist",
+        "Cityflo Basics: Your How-to Guide"
+      ],
+      "customer_delight_illustration": null,
+      "new_user_benefit": null,
+      "offerings": [
+        {
+          "logo_url": "https://assets.cityflo.net/lite/ic_offering_flexi_inactive.png",
+          "title": [
+            {
+              "text": "Fully flexible pass caters to your need",
+              "text_style": "body_Small_Medium",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "cta": {
+            "text": [
+              {
+                "text": "₹129/ride",
+                "text_style": "body_Paragraph_SemiBold",
+                "text_color": "#00253F"
+              }
+            ],
+            "action_url": "https://www.cityflostaging.com/?scene=subscription_benefits"
+          },
+          "bg_gradient_colors": [
+            "#CFA12A",
+            "#EBC76A"
+          ],
+          "bg_image_url": "https://assets.cityflo.net/lite/ic_offering_bg_flexi_inactive.png",
+          "offering_type": "Flexi Pass",
+          "active": false
+        },
+        {
+          "logo_url": "https://assets.cityflo.net/lite/ic_offering_super_saver_inactive.png",
+          "title": [
+            {
+              "text": "Best price for daily commuters",
+              "text_style": "body_Small_Medium",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "cta": {
+            "text": null,
+            "action_url": "https://www.cityflostaging.com/?scene=super_saver"
+          },
+          "bg_gradient_colors": [
+            "#00253F",
+            "#2B4A60"
+          ],
+          "bg_image_url": "https://assets.cityflo.net/lite/ic_offering_bg_super_saver_inactive.png",
+          "offering_type": "Super Saver",
+          "active": false
+        }
+      ],
+      "active_metro_tickets": [],
+      "home_dock": null,
+      "webview_search_enabled": false,
+      "webview_native_terminals": [
+        "confirmation",
+        "seat_selection",
+        "lite_pack",
+        "subscription"
+      ]
+    }
+  },
+  {
+    "method": "POST",
+    "url": "https://sentry.cityflo.net/api/15/envelope/?sentry_version=7&sentry_key=2d3a9b03f21569c7bdd5d321071145da&sentry_client=sentry.javascript.react%2F10.35.0",
+    "status": 200,
+    "host": "sentry.cityflo.net",
+    "requestBody": "[non-JSON body omitted]",
+    "responseJson": {
+      "id": "95b78de9a9c34caa87f0d76463604e1a"
+    }
+  }
+]

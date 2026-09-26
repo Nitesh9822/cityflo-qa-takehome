@@ -1,0 +1,1273 @@
+[
+  {
+    "method": "POST",
+    "url": "https://api.cityflostaging.com/api/v4/routes/search/",
+    "status": 200,
+    "host": "api.cityflostaging.com",
+    "requestJson": {
+      "pickup_address": "[REDACTED]",
+      "dropoff_address": "[REDACTED]",
+      "office_start_time": null,
+      "office_end_time": null,
+      "to_show_first_ride_banner": true,
+      "ride_date": "26-09-2026"
+    },
+    "responseJson": {
+      "date_popup_message": null,
+      "day_selection": {
+        "day_string": "Mon, 28th Sep",
+        "ride_date": "28-09-2026",
+        "message": null,
+        "date_search_message": null
+      },
+      "cards_data": {
+        "morning_vsp": [
+          {
+            "timings": {
+              "previous_timings": [],
+              "future_timings": [
+                {
+                  "pk": 1957608,
+                  "ride_date": "28-09-2026",
+                  "route": {
+                    "pk": 6540,
+                    "name": "Ghatkopar - BKC",
+                    "time_of_day": "1",
+                    "allow_subscription": true
+                  },
+                  "route_slot": {
+                    "pk": 115296,
+                    "via": "",
+                    "allow_subscription": true,
+                    "show_ride_types": true
+                  },
+                  "start_stop_info": {
+                    "pk": 627543,
+                    "departure_time": "8:25 am"
+                  },
+                  "vehicle_ride_tag": null,
+                  "vehicle_ride_tag_spec": null,
+                  "cashback_offer": null,
+                  "end_stop_info": {
+                    "pk": 627560,
+                    "departure_time": "9:43 am"
+                  },
+                  "status": "ok",
+                  "is_notification_tapped": false,
+                  "eta": {
+                    "is_available": false,
+                    "is_on_time": true,
+                    "message": null
+                  },
+                  "skip_seat_selection": false,
+                  "surge_status": null
+                },
+                {
+                  "pk": 1957609,
+                  "ride_date": "28-09-2026",
+                  "route": {
+                    "pk": 6540,
+                    "name": "Ghatkopar - BKC",
+                    "time_of_day": "1",
+                    "allow_subscription": true
+                  },
+                  "route_slot": {
+                    "pk": 115297,
+                    "via": "",
+                    "allow_subscription": true,
+                    "show_ride_types": true
+                  },
+                  "start_stop_info": {
+                    "pk": 627565,
+                    "departure_time": "8:40 am"
+                  },
+                  "vehicle_ride_tag": null,
+                  "vehicle_ride_tag_spec": null,
+                  "cashback_offer": null,
+                  "end_stop_info": {
+                    "pk": 627582,
+                    "departure_time": "9:56 am"
+                  },
+                  "status": "ok",
+                  "is_notification_tapped": false,
+                  "eta": {
+                    "is_available": false,
+                    "is_on_time": true,
+                    "message": null
+                  },
+                  "skip_seat_selection": false,
+                  "surge_status": null
+                },
+                {
+                  "pk": 1957610,
+                  "ride_date": "28-09-2026",
+                  "route": {
+                    "pk": 6540,
+                    "name": "Ghatkopar - BKC",
+                    "time_of_day": "1",
+                    "allow_subscription": true
+                  },
+                  "route_slot": {
+                    "pk": 115298,
+                    "via": "",
+                    "allow_subscription": true,
+                    "show_ride_types": true
+                  },
+                  "start_stop_info": {
+                    "pk": 627587,
+                    "departure_time": "8:50 am"
+                  },
+                  "vehicle_ride_tag": null,
+                  "vehicle_ride_tag_spec": null,
+                  "cashback_offer": null,
+                  "end_stop_info": {
+                    "pk": 627604,
+                    "departure_time": "10:10 am"
+                  },
+                  "status": "ok",
+                  "is_notification_tapped": false,
+                  "eta": {
+                    "is_available": false,
+                    "is_on_time": true,
+                    "message": null
+                  },
+                  "skip_seat_selection": false,
+                  "surge_status": null
+                },
+                {
+                  "pk": 2194948,
+                  "ride_date": "28-09-2026",
+                  "route": {
+                    "pk": 6540,
+                    "name": "Ghatkopar - BKC",
+                    "time_of_day": "1",
+                    "allow_subscription": true
+                  },
+                  "route_slot": {
+                    "pk": 128406,
+                    "via": "",
+                    "allow_subscription": true,
+                    "show_ride_types": true
+                  },
+                  "start_stop_info": {
+                    "pk": 876164,
+                    "departure_time": "9:05 am"
+                  },
+                  "vehicle_ride_tag": null,
+                  "vehicle_ride_tag_spec": null,
+                  "cashback_offer": null,
+                  "end_stop_info": {
+                    "pk": 876173,
+                    "departure_time": "10:24 am"
+                  },
+                  "status": "ok",
+                  "is_notification_tapped": false,
+                  "eta": {
+                    "is_available": false,
+                    "is_on_time": true,
+                    "message": null
+                  },
+                  "skip_seat_selection": false,
+                  "surge_status": null
+                }
+              ]
+            },
+            "pk": 107874,
+            "number_of_buses": 7,
+            "additional_buses": 2,
+            "time_to_start_stop": "10 min drive (2.9 km)",
+            "time_to_end_stop": "3 min walk (193 m)",
+            "pickup_mode_of_transport": "driving",
+            "dropoff_mode_of_transport": "walking",
+            "clevertap_data": {
+              "pickup_travel_mode": "driving",
+              "drop_travel_mode": "walking",
+              "pickup_distance_time": 37,
+              "dropoff_distance_time": 2,
+              "distance_to_start_stop": 2943,
+              "distance_to_end_stop": 193
+            },
+            "start_stop": {
+              "pk": 18907,
+              "name": "Vikhroli Depot",
+              "description": "Oppo Vikhroli Depo ",
+              "location": {
+                "pk": 71356015,
+                "lat": "[REDACTED]",
+                "lng": "[REDACTED]"
+              },
+              "is_pano_view_available": true,
+              "image_urls": [
+                "https://stopsimg.cityflo.net/0dc28d6d-256c-4088-8e40-ddf78acc70bd.jpg",
+                "https://stopsimg.cityflo.net/c7db42e8-ea30-4749-9987-51e8b54f809d.jpg",
+                "https://stopsimg.cityflo.net/83efc2d7-3b21-43a8-9ec9-8eedd3b107ed.jpg"
+              ]
+            },
+            "end_stop": {
+              "pk": 9,
+              "name": "Fire Station",
+              "description": "In front of KIA showroom at TCG Financial Centre",
+              "location": {
+                "pk": 95911405,
+                "lat": "[REDACTED]",
+                "lng": "[REDACTED]"
+              },
+              "is_pano_view_available": true,
+              "image_urls": [
+                "https://stopsimg.cityflo.net/b81d32c0-ffe8-4a11-9a1e-026a95806b30.jpg",
+                "https://stopsimg.cityflo.net/6c469903-ddfa-4bb7-9f0c-f5c7946fa097.jpg",
+                "https://stopsimg.cityflo.net/f45f92c2-5e36-46a8-8488-1999fb363002.jpg",
+                "https://stopsimg.cityflo.net/e371671f-96e9-4388-9b4a-832dd6d67887.jpg"
+              ]
+            },
+            "tag": null,
+            "tag_spec": {
+              "text": "Nearest",
+              "text_color": "#2B8064",
+              "bg_color": [
+                "#E6F0EC",
+                "#FFFFFF"
+              ],
+              "icon_url": null
+            },
+            "vehicle_ride": {
+              "pk": 2194907,
+              "ride_date": "28-09-2026",
+              "route": {
+                "pk": 6540,
+                "name": "Ghatkopar - BKC",
+                "time_of_day": "1",
+                "allow_subscription": true
+              },
+              "route_slot": {
+                "pk": 128405,
+                "via": "",
+                "allow_subscription": true,
+                "show_ride_types": true
+              },
+              "start_stop_info": {
+                "pk": 876149,
+                "departure_time": "8:15 am"
+              },
+              "vehicle_ride_tag": null,
+              "vehicle_ride_tag_spec": null,
+              "cashback_offer": null,
+              "end_stop_info": {
+                "pk": 876143,
+                "departure_time": "9:36 am"
+              },
+              "status": "ok",
+              "is_notification_tapped": false,
+              "eta": {
+                "is_available": false,
+                "is_on_time": true,
+                "message": null
+              },
+              "skip_seat_selection": false,
+              "surge_status": null
+            },
+            "price_info": "fares starting from ₹49",
+            "card_highlight": {
+              "title": "Top pick for you",
+              "subtitle": "Yay! Your pickup is just 10 min drive away",
+              "icon": "https://icons.cityflo.net/Top+badge+2+(1).png"
+            }
+          },
+          {
+            "timings": {
+              "previous_timings": [],
+              "future_timings": [
+                {
+                  "pk": 1957624,
+                  "ride_date": "28-09-2026",
+                  "route": {
+                    "pk": 6177,
+                    "name": "Mulund - BKC",
+                    "time_of_day": "1",
+                    "allow_subscription": true
+                  },
+                  "route_slot": {
+                    "pk": 113119,
+                    "via": "",
+                    "allow_subscription": true,
+                    "show_ride_types": true
+                  },
+                  "start_stop_info": {
+                    "pk": 614774,
+                    "departure_time": "8:04 am"
+                  },
+                  "vehicle_ride_tag": null,
+                  "vehicle_ride_tag_spec": null,
+                  "cashback_offer": null,
+                  "end_stop_info": {
+                    "pk": 614780,
+                    "departure_time": "9:23 am"
+                  },
+                  "status": "ok",
+                  "is_notification_tapped": false,
+                  "eta": {
+                    "is_available": false,
+                    "is_on_time": true,
+                    "message": null
+                  },
+                  "skip_seat_selection": false,
+                  "surge_status": null
+                },
+                {
+                  "pk": 1958133,
+                  "ride_date": "28-09-2026",
+                  "route": {
+                    "pk": 6177,
+                    "name": "Mulund - BKC",
+                    "time_of_day": "1",
+                    "allow_subscription": true
+                  },
+                  "route_slot": {
+                    "pk": 113217,
+                    "via": "",
+                    "allow_subscription": true,
+                    "show_ride_types": true
+                  },
+                  "start_stop_info": {
+                    "pk": 615151,
+                    "departure_time": "8:26 am"
+                  },
+                  "vehicle_ride_tag": null,
+                  "vehicle_ride_tag_spec": null,
+                  "cashback_offer": null,
+                  "end_stop_info": {
+                    "pk": 615157,
+                    "departure_time": "9:40 am"
+                  },
+                  "status": "ok",
+                  "is_notification_tapped": false,
+                  "eta": {
+                    "is_available": false,
+                    "is_on_time": true,
+                    "message": null
+                  },
+                  "skip_seat_selection": false,
+                  "surge_status": null
+                },
+                {
+                  "pk": 1958134,
+                  "ride_date": "28-09-2026",
+                  "route": {
+                    "pk": 6177,
+                    "name": "Mulund - BKC",
+                    "time_of_day": "1",
+                    "allow_subscription": true
+                  },
+                  "route_slot": {
+                    "pk": 113218,
+                    "via": "",
+                    "allow_subscription": true,
+                    "show_ride_types": true
+                  },
+                  "start_stop_info": {
+                    "pk": 615178,
+                    "departure_time": "8:47 am"
+                  },
+                  "vehicle_ride_tag": null,
+                  "vehicle_ride_tag_spec": null,
+                  "cashback_offer": null,
+                  "end_stop_info": {
+                    "pk": 615162,
+                    "departure_time": "10:01 am"
+                  },
+                  "status": "ok",
+                  "is_notification_tapped": false,
+                  "eta": {
+                    "is_available": false,
+                    "is_on_time": true,
+                    "message": null
+                  },
+                  "skip_seat_selection": false,
+                  "surge_status": null
+                },
+                {
+                  "pk": 1958135,
+                  "ride_date": "28-09-2026",
+                  "route": {
+                    "pk": 6177,
+                    "name": "Mulund - BKC",
+                    "time_of_day": "1",
+                    "allow_subscription": true
+                  },
+                  "route_slot": {
+                    "pk": 113219,
+                    "via": "",
+                    "allow_subscription": true,
+                    "show_ride_types": true
+                  },
+                  "start_stop_info": {
+                    "pk": 615202,
+                    "departure_time": "9:06 am"
+                  },
+                  "vehicle_ride_tag": null,
+                  "vehicle_ride_tag_spec": null,
+                  "cashback_offer": null,
+                  "end_stop_info": {
+                    "pk": 615186,
+                    "departure_time": "10:13 am"
+                  },
+                  "status": "ok",
+                  "is_notification_tapped": false,
+                  "eta": {
+                    "is_available": false,
+                    "is_on_time": true,
+                    "message": null
+                  },
+                  "skip_seat_selection": false,
+                  "surge_status": null
+                }
+              ]
+            },
+            "pk": 103382,
+            "number_of_buses": 5,
+            "additional_buses": 0,
+            "time_to_start_stop": "11 min drive (3.2 km)",
+            "time_to_end_stop": "3 min walk (193 m)",
+            "pickup_mode_of_transport": "driving",
+            "dropoff_mode_of_transport": "walking",
+            "clevertap_data": {
+              "pickup_travel_mode": "driving",
+              "drop_travel_mode": "walking",
+              "pickup_distance_time": 40,
+              "dropoff_distance_time": 2,
+              "distance_to_start_stop": 3185,
+              "distance_to_end_stop": 193
+            },
+            "start_stop": {
+              "pk": 9752,
+              "name": "Gandhi Nagar Junction",
+              "description": "In front on Naval civilian colony east camp",
+              "location": {
+                "pk": 48160264,
+                "lat": "[REDACTED]",
+                "lng": "[REDACTED]"
+              },
+              "is_pano_view_available": true,
+              "image_urls": [
+                "https://stopsimg.cityflo.net/b5501100-329f-43c3-a72f-df2d1adf3ce0.jpg",
+                "https://stopsimg.cityflo.net/bdb81f34-f2ab-4825-948c-f9715d9737b9.jpg"
+              ]
+            },
+            "end_stop": {
+              "pk": 9,
+              "name": "Fire Station",
+              "description": "In front of KIA showroom at TCG Financial Centre",
+              "location": {
+                "pk": 95911405,
+                "lat": "[REDACTED]",
+                "lng": "[REDACTED]"
+              },
+              "is_pano_view_available": true,
+              "image_urls": [
+                "https://stopsimg.cityflo.net/b81d32c0-ffe8-4a11-9a1e-026a95806b30.jpg",
+                "https://stopsimg.cityflo.net/6c469903-ddfa-4bb7-9f0c-f5c7946fa097.jpg",
+                "https://stopsimg.cityflo.net/f45f92c2-5e36-46a8-8488-1999fb363002.jpg",
+                "https://stopsimg.cityflo.net/e371671f-96e9-4388-9b4a-832dd6d67887.jpg"
+              ]
+            },
+            "tag": null,
+            "tag_spec": {
+              "text": "5 bus timings",
+              "text_color": "#2B4A60",
+              "bg_color": [
+                "#DBE9F2",
+                "#FFFFFF"
+              ],
+              "icon_url": null
+            },
+            "vehicle_ride": {
+              "pk": 2194866,
+              "ride_date": "28-09-2026",
+              "route": {
+                "pk": 6177,
+                "name": "Mulund - BKC",
+                "time_of_day": "1",
+                "allow_subscription": true
+              },
+              "route_slot": {
+                "pk": 128404,
+                "via": "",
+                "allow_subscription": true,
+                "show_ride_types": true
+              },
+              "start_stop_info": {
+                "pk": 876131,
+                "departure_time": "7:53 am"
+              },
+              "vehicle_ride_tag": null,
+              "vehicle_ride_tag_spec": null,
+              "cashback_offer": null,
+              "end_stop_info": {
+                "pk": 876112,
+                "departure_time": "9:08 am"
+              },
+              "status": "ok",
+              "is_notification_tapped": false,
+              "eta": {
+                "is_available": false,
+                "is_on_time": true,
+                "message": null
+              },
+              "skip_seat_selection": false,
+              "surge_status": null
+            },
+            "price_info": "fares starting from ₹49",
+            "card_highlight": null
+          },
+          {
+            "timings": {
+              "previous_timings": [],
+              "future_timings": [
+                {
+                  "pk": 2193559,
+                  "ride_date": "28-09-2026",
+                  "route": {
+                    "pk": 9023,
+                    "name": "Ghatkopar - Lower parel",
+                    "time_of_day": "1",
+                    "allow_subscription": true
+                  },
+                  "route_slot": {
+                    "pk": 126283,
+                    "via": "",
+                    "allow_subscription": true,
+                    "show_ride_types": true
+                  },
+                  "start_stop_info": {
+                    "pk": 852506,
+                    "departure_time": "8:50 am"
+                  },
+                  "vehicle_ride_tag": null,
+                  "vehicle_ride_tag_spec": null,
+                  "cashback_offer": null,
+                  "end_stop_info": {
+                    "pk": 852520,
+                    "departure_time": "10:11 am"
+                  },
+                  "status": "ok",
+                  "is_notification_tapped": false,
+                  "eta": {
+                    "is_available": false,
+                    "is_on_time": true,
+                    "message": null
+                  },
+                  "skip_seat_selection": false,
+                  "surge_status": null
+                },
+                {
+                  "pk": 2193618,
+                  "ride_date": "28-09-2026",
+                  "route": {
+                    "pk": 9023,
+                    "name": "Ghatkopar - Lower parel",
+                    "time_of_day": "1",
+                    "allow_subscription": true
+                  },
+                  "route_slot": {
+                    "pk": 126284,
+                    "via": "",
+                    "allow_subscription": true,
+                    "show_ride_types": true
+                  },
+                  "start_stop_info": {
+                    "pk": 852532,
+                    "departure_time": "9:10 am"
+                  },
+                  "vehicle_ride_tag": null,
+                  "vehicle_ride_tag_spec": null,
+                  "cashback_offer": null,
+                  "end_stop_info": {
+                    "pk": 852546,
+                    "departure_time": "10:26 am"
+                  },
+                  "status": "ok",
+                  "is_notification_tapped": false,
+                  "eta": {
+                    "is_available": false,
+                    "is_on_time": true,
+                    "message": null
+                  },
+                  "skip_seat_selection": false,
+                  "surge_status": null
+                }
+              ]
+            },
+            "pk": 155090,
+            "number_of_buses": 3,
+            "additional_buses": 0,
+            "time_to_start_stop": "10 min drive (2.9 km)",
+            "time_to_end_stop": "12 min drive (3.5 km)",
+            "pickup_mode_of_transport": "driving",
+            "dropoff_mode_of_transport": "driving",
+            "clevertap_data": {
+              "pickup_travel_mode": "driving",
+              "drop_travel_mode": "driving",
+              "pickup_distance_time": 37,
+              "dropoff_distance_time": 44,
+              "distance_to_start_stop": 2943,
+              "distance_to_end_stop": 3531
+            },
+            "start_stop": {
+              "pk": 18907,
+              "name": "Vikhroli Depot",
+              "description": "Oppo Vikhroli Depo ",
+              "location": {
+                "pk": 71356015,
+                "lat": "[REDACTED]",
+                "lng": "[REDACTED]"
+              },
+              "is_pano_view_available": true,
+              "image_urls": [
+                "https://stopsimg.cityflo.net/0dc28d6d-256c-4088-8e40-ddf78acc70bd.jpg",
+                "https://stopsimg.cityflo.net/c7db42e8-ea30-4749-9987-51e8b54f809d.jpg",
+                "https://stopsimg.cityflo.net/83efc2d7-3b21-43a8-9ec9-8eedd3b107ed.jpg"
+              ]
+            },
+            "end_stop": {
+              "pk": 1052,
+              "name": "Everard Nagar",
+              "description": " In front of Everard Co. Op. Hsg. Society Building beside of everard Nagar bus stop.",
+              "location": {
+                "pk": 83031992,
+                "lat": "[REDACTED]",
+                "lng": "[REDACTED]"
+              },
+              "is_pano_view_available": true,
+              "image_urls": [
+                "https://stopsimg.cityflo.net/868d7e44-9d45-42c1-a165-d703560e2a4d.jpg",
+                "https://stopsimg.cityflo.net/2e7f9440-e035-4bd8-b7e9-170af4a5ba45.jpg",
+                "https://stopsimg.cityflo.net/782ae1e9-62e9-486e-80ad-22b7b837998d.jpg"
+              ]
+            },
+            "tag": null,
+            "tag_spec": null,
+            "vehicle_ride": {
+              "pk": 2193500,
+              "ride_date": "28-09-2026",
+              "route": {
+                "pk": 9023,
+                "name": "Ghatkopar - Lower parel",
+                "time_of_day": "1",
+                "allow_subscription": true
+              },
+              "route_slot": {
+                "pk": 126282,
+                "via": "",
+                "allow_subscription": true,
+                "show_ride_types": true
+              },
+              "start_stop_info": {
+                "pk": 852480,
+                "departure_time": "8:30 am"
+              },
+              "vehicle_ride_tag": null,
+              "vehicle_ride_tag_spec": null,
+              "cashback_offer": null,
+              "end_stop_info": {
+                "pk": 852494,
+                "departure_time": "9:30 am"
+              },
+              "status": "ok",
+              "is_notification_tapped": false,
+              "eta": {
+                "is_available": false,
+                "is_on_time": true,
+                "message": null
+              },
+              "skip_seat_selection": false,
+              "surge_status": null
+            },
+            "price_info": "fares starting from ₹49",
+            "card_highlight": null
+          },
+          {
+            "timings": {
+              "previous_timings": [],
+              "future_timings": [
+                {
+                  "pk": 1957608,
+                  "ride_date": "28-09-2026",
+                  "route": {
+                    "pk": 6540,
+                    "name": "Ghatkopar - BKC",
+                    "time_of_day": "1",
+                    "allow_subscription": true
+                  },
+                  "route_slot": {
+                    "pk": 115296,
+                    "via": "",
+                    "allow_subscription": true,
+                    "show_ride_types": true
+                  },
+                  "start_stop_info": {
+                    "pk": 627544,
+                    "departure_time": "8:26 am"
+                  },
+                  "vehicle_ride_tag": null,
+                  "vehicle_ride_tag_spec": null,
+                  "cashback_offer": null,
+                  "end_stop_info": {
+                    "pk": 627560,
+                    "departure_time": "9:43 am"
+                  },
+                  "status": "ok",
+                  "is_notification_tapped": false,
+                  "eta": {
+                    "is_available": false,
+                    "is_on_time": true,
+                    "message": null
+                  },
+                  "skip_seat_selection": false,
+                  "surge_status": null
+                },
+                {
+                  "pk": 1957609,
+                  "ride_date": "28-09-2026",
+                  "route": {
+                    "pk": 6540,
+                    "name": "Ghatkopar - BKC",
+                    "time_of_day": "1",
+                    "allow_subscription": true
+                  },
+                  "route_slot": {
+                    "pk": 115297,
+                    "via": "",
+                    "allow_subscription": true,
+                    "show_ride_types": true
+                  },
+                  "start_stop_info": {
+                    "pk": 627566,
+                    "departure_time": "8:41 am"
+                  },
+                  "vehicle_ride_tag": null,
+                  "vehicle_ride_tag_spec": null,
+                  "cashback_offer": null,
+                  "end_stop_info": {
+                    "pk": 627582,
+                    "departure_time": "9:56 am"
+                  },
+                  "status": "ok",
+                  "is_notification_tapped": false,
+                  "eta": {
+                    "is_available": false,
+                    "is_on_time": true,
+                    "message": null
+                  },
+                  "skip_seat_selection": false,
+                  "surge_status": null
+                },
+                {
+                  "pk": 1957610,
+                  "ride_date": "28-09-2026",
+                  "route": {
+                    "pk": 6540,
+                    "name": "Ghatkopar - BKC",
+                    "time_of_day": "1",
+                    "allow_subscription": true
+                  },
+                  "route_slot": {
+                    "pk": 115298,
+                    "via": "",
+                    "allow_subscription": true,
+                    "show_ride_types": true
+                  },
+                  "start_stop_info": {
+                    "pk": 627588,
+                    "departure_time": "8:50 am"
+                  },
+                  "vehicle_ride_tag": null,
+                  "vehicle_ride_tag_spec": null,
+                  "cashback_offer": null,
+                  "end_stop_info": {
+                    "pk": 627604,
+                    "departure_time": "10:10 am"
+                  },
+                  "status": "ok",
+                  "is_notification_tapped": false,
+                  "eta": {
+                    "is_available": false,
+                    "is_on_time": true,
+                    "message": null
+                  },
+                  "skip_seat_selection": false,
+                  "surge_status": null
+                },
+                {
+                  "pk": 2194948,
+                  "ride_date": "28-09-2026",
+                  "route": {
+                    "pk": 6540,
+                    "name": "Ghatkopar - BKC",
+                    "time_of_day": "1",
+                    "allow_subscription": true
+                  },
+                  "route_slot": {
+                    "pk": 128406,
+                    "via": "",
+                    "allow_subscription": true,
+                    "show_ride_types": true
+                  },
+                  "start_stop_info": {
+                    "pk": 876157,
+                    "departure_time": "9:06 am"
+                  },
+                  "vehicle_ride_tag": null,
+                  "vehicle_ride_tag_spec": null,
+                  "cashback_offer": null,
+                  "end_stop_info": {
+                    "pk": 876173,
+                    "departure_time": "10:24 am"
+                  },
+                  "status": "ok",
+                  "is_notification_tapped": false,
+                  "eta": {
+                    "is_available": false,
+                    "is_on_time": true,
+                    "message": null
+                  },
+                  "skip_seat_selection": false,
+                  "surge_status": null
+                }
+              ]
+            },
+            "pk": 107883,
+            "number_of_buses": 7,
+            "additional_buses": 2,
+            "time_to_start_stop": "12 min drive (3.4 km)",
+            "time_to_end_stop": "3 min walk (193 m)",
+            "pickup_mode_of_transport": "driving",
+            "dropoff_mode_of_transport": "walking",
+            "clevertap_data": {
+              "pickup_travel_mode": "driving",
+              "drop_travel_mode": "walking",
+              "pickup_distance_time": 43,
+              "dropoff_distance_time": 2,
+              "distance_to_start_stop": 3435,
+              "distance_to_end_stop": 193
+            },
+            "start_stop": {
+              "pk": 18908,
+              "name": "RCity Mall",
+              "description": "Oppo Rcity Mall",
+              "location": {
+                "pk": 71356295,
+                "lat": "[REDACTED]",
+                "lng": "[REDACTED]"
+              },
+              "is_pano_view_available": true,
+              "image_urls": [
+                "https://stopsimg.cityflo.net/c9dc55c7-9115-4352-9794-885333c1ff26.jpg",
+                "https://stopsimg.cityflo.net/518b674b-ec5f-4096-8ea2-c1991b4e1db3.jpg",
+                "https://stopsimg.cityflo.net/55f6c6ab-4a8a-4388-8a91-4486b96e68cc.jpg",
+                "https://stopsimg.cityflo.net/7258ce80-35a5-4650-9f14-78b685b8127a.jpg"
+              ]
+            },
+            "end_stop": {
+              "pk": 9,
+              "name": "Fire Station",
+              "description": "In front of KIA showroom at TCG Financial Centre",
+              "location": {
+                "pk": 95911405,
+                "lat": "[REDACTED]",
+                "lng": "[REDACTED]"
+              },
+              "is_pano_view_available": true,
+              "image_urls": [
+                "https://stopsimg.cityflo.net/b81d32c0-ffe8-4a11-9a1e-026a95806b30.jpg",
+                "https://stopsimg.cityflo.net/6c469903-ddfa-4bb7-9f0c-f5c7946fa097.jpg",
+                "https://stopsimg.cityflo.net/f45f92c2-5e36-46a8-8488-1999fb363002.jpg",
+                "https://stopsimg.cityflo.net/e371671f-96e9-4388-9b4a-832dd6d67887.jpg"
+              ]
+            },
+            "tag": null,
+            "tag_spec": {
+              "text": "7 bus timings",
+              "text_color": "#2B4A60",
+              "bg_color": [
+                "#DBE9F2",
+                "#FFFFFF"
+              ],
+              "icon_url": null
+            },
+            "vehicle_ride": {
+              "pk": 2194907,
+              "ride_date": "28-09-2026",
+              "route": {
+                "pk": 6540,
+                "name": "Ghatkopar - BKC",
+                "time_of_day": "1",
+                "allow_subscription": true
+              },
+              "route_slot": {
+                "pk": 128405,
+                "via": "",
+                "allow_subscription": true,
+                "show_ride_types": true
+              },
+              "start_stop_info": {
+                "pk": 876132,
+                "departure_time": "8:16 am"
+              },
+              "vehicle_ride_tag": null,
+              "vehicle_ride_tag_spec": null,
+              "cashback_offer": null,
+              "end_stop_info": {
+                "pk": 876143,
+                "departure_time": "9:36 am"
+              },
+              "status": "ok",
+              "is_notification_tapped": false,
+              "eta": {
+                "is_available": false,
+                "is_on_time": true,
+                "message": null
+              },
+              "skip_seat_selection": false,
+              "surge_status": null
+            },
+            "price_info": "fares starting from ₹49",
+            "card_highlight": null
+          },
+          {
+            "timings": {
+              "previous_timings": [],
+              "future_timings": [
+                {
+                  "pk": 1957624,
+                  "ride_date": "28-09-2026",
+                  "route": {
+                    "pk": 6177,
+                    "name": "Mulund - BKC",
+                    "time_of_day": "1",
+                    "allow_subscription": true
+                  },
+                  "route_slot": {
+                    "pk": 113119,
+                    "via": "",
+                    "allow_subscription": true,
+                    "show_ride_types": true
+                  },
+                  "start_stop_info": {
+                    "pk": 614773,
+                    "departure_time": "8:02 am"
+                  },
+                  "vehicle_ride_tag": null,
+                  "vehicle_ride_tag_spec": null,
+                  "cashback_offer": null,
+                  "end_stop_info": {
+                    "pk": 614780,
+                    "departure_time": "9:23 am"
+                  },
+                  "status": "ok",
+                  "is_notification_tapped": false,
+                  "eta": {
+                    "is_available": false,
+                    "is_on_time": true,
+                    "message": null
+                  },
+                  "skip_seat_selection": false,
+                  "surge_status": null
+                },
+                {
+                  "pk": 1958133,
+                  "ride_date": "28-09-2026",
+                  "route": {
+                    "pk": 6177,
+                    "name": "Mulund - BKC",
+                    "time_of_day": "1",
+                    "allow_subscription": true
+                  },
+                  "route_slot": {
+                    "pk": 113217,
+                    "via": "",
+                    "allow_subscription": true,
+                    "show_ride_types": true
+                  },
+                  "start_stop_info": {
+                    "pk": 615150,
+                    "departure_time": "8:24 am"
+                  },
+                  "vehicle_ride_tag": null,
+                  "vehicle_ride_tag_spec": null,
+                  "cashback_offer": null,
+                  "end_stop_info": {
+                    "pk": 615157,
+                    "departure_time": "9:40 am"
+                  },
+                  "status": "ok",
+                  "is_notification_tapped": false,
+                  "eta": {
+                    "is_available": false,
+                    "is_on_time": true,
+                    "message": null
+                  },
+                  "skip_seat_selection": false,
+                  "surge_status": null
+                },
+                {
+                  "pk": 1958134,
+                  "ride_date": "28-09-2026",
+                  "route": {
+                    "pk": 6177,
+                    "name": "Mulund - BKC",
+                    "time_of_day": "1",
+                    "allow_subscription": true
+                  },
+                  "route_slot": {
+                    "pk": 113218,
+                    "via": "",
+                    "allow_subscription": true,
+                    "show_ride_types": true
+                  },
+                  "start_stop_info": {
+                    "pk": 615177,
+                    "departure_time": "8:46 am"
+                  },
+                  "vehicle_ride_tag": null,
+                  "vehicle_ride_tag_spec": null,
+                  "cashback_offer": null,
+                  "end_stop_info": {
+                    "pk": 615162,
+                    "departure_time": "10:01 am"
+                  },
+                  "status": "ok",
+                  "is_notification_tapped": false,
+                  "eta": {
+                    "is_available": false,
+                    "is_on_time": true,
+                    "message": null
+                  },
+                  "skip_seat_selection": false,
+                  "surge_status": null
+                },
+                {
+                  "pk": 1958135,
+                  "ride_date": "28-09-2026",
+                  "route": {
+                    "pk": 6177,
+                    "name": "Mulund - BKC",
+                    "time_of_day": "1",
+                    "allow_subscription": true
+                  },
+                  "route_slot": {
+                    "pk": 113219,
+                    "via": "",
+                    "allow_subscription": true,
+                    "show_ride_types": true
+                  },
+                  "start_stop_info": {
+                    "pk": 615201,
+                    "departure_time": "9:05 am"
+                  },
+                  "vehicle_ride_tag": null,
+                  "vehicle_ride_tag_spec": null,
+                  "cashback_offer": null,
+                  "end_stop_info": {
+                    "pk": 615186,
+                    "departure_time": "10:13 am"
+                  },
+                  "status": "ok",
+                  "is_notification_tapped": false,
+                  "eta": {
+                    "is_available": false,
+                    "is_on_time": true,
+                    "message": null
+                  },
+                  "skip_seat_selection": false,
+                  "surge_status": null
+                }
+              ]
+            },
+            "pk": 103373,
+            "number_of_buses": 5,
+            "additional_buses": 0,
+            "time_to_start_stop": "12 min drive (3.4 km)",
+            "time_to_end_stop": "3 min walk (193 m)",
+            "pickup_mode_of_transport": "driving",
+            "dropoff_mode_of_transport": "walking",
+            "clevertap_data": {
+              "pickup_travel_mode": "driving",
+              "drop_travel_mode": "walking",
+              "pickup_distance_time": 43,
+              "dropoff_distance_time": 2,
+              "distance_to_start_stop": 3440,
+              "distance_to_end_stop": 193
+            },
+            "start_stop": {
+              "pk": 17093,
+              "name": "Huma Cinema",
+              "description": "Just before huma Cinima Bus stop",
+              "location": {
+                "pk": 62709449,
+                "lat": "[REDACTED]",
+                "lng": "[REDACTED]"
+              },
+              "is_pano_view_available": true,
+              "image_urls": [
+                "https://stopsimg.cityflo.net/cd96cad8-5a98-4a3d-b41e-e5477390e4db.jpg",
+                "https://stopsimg.cityflo.net/7f677da5-e39f-4efb-bd5a-b88d5948efeb.jpg",
+                "https://stopsimg.cityflo.net/8fe8dd25-4c65-4a4b-a432-5affa249f2bd.jpg"
+              ]
+            },
+            "end_stop": {
+              "pk": 9,
+              "name": "Fire Station",
+              "description": "In front of KIA showroom at TCG Financial Centre",
+              "location": {
+                "pk": 95911405,
+                "lat": "[REDACTED]",
+                "lng": "[REDACTED]"
+              },
+              "is_pano_view_available": true,
+              "image_urls": [
+                "https://stopsimg.cityflo.net/b81d32c0-ffe8-4a11-9a1e-026a95806b30.jpg",
+                "https://stopsimg.cityflo.net/6c469903-ddfa-4bb7-9f0c-f5c7946fa097.jpg",
+                "https://stopsimg.cityflo.net/f45f92c2-5e36-46a8-8488-1999fb363002.jpg",
+                "https://stopsimg.cityflo.net/e371671f-96e9-4388-9b4a-832dd6d67887.jpg"
+              ]
+            },
+            "tag": null,
+            "tag_spec": {
+              "text": "5 bus timings",
+              "text_color": "#2B4A60",
+              "bg_color": [
+                "#DBE9F2",
+                "#FFFFFF"
+              ],
+              "icon_url": null
+            },
+            "vehicle_ride": {
+              "pk": 2194866,
+              "ride_date": "28-09-2026",
+              "route": {
+                "pk": 6177,
+                "name": "Mulund - BKC",
+                "time_of_day": "1",
+                "allow_subscription": true
+              },
+              "route_slot": {
+                "pk": 128404,
+                "via": "",
+                "allow_subscription": true,
+                "show_ride_types": true
+              },
+              "start_stop_info": {
+                "pk": 876107,
+                "departure_time": "7:51 am"
+              },
+              "vehicle_ride_tag": null,
+              "vehicle_ride_tag_spec": null,
+              "cashback_offer": null,
+              "end_stop_info": {
+                "pk": 876112,
+                "departure_time": "9:08 am"
+              },
+              "status": "ok",
+              "is_notification_tapped": false,
+              "eta": {
+                "is_available": false,
+                "is_on_time": true,
+                "message": null
+              },
+              "skip_seat_selection": false,
+              "surge_status": null
+            },
+            "price_info": "fares starting from ₹49",
+            "card_highlight": null
+          }
+        ],
+        "evening_vsp": null
+      },
+      "booking_dates": [
+        {
+          "day_string": "Mon, 28th Sep",
+          "ride_date": "28-09-2026",
+          "message": null,
+          "date_search_message": null
+        },
+        {
+          "day_string": "Tue, 29th Sep",
+          "ride_date": "29-09-2026",
+          "message": null,
+          "date_search_message": null
+        },
+        {
+          "day_string": "Wed, 30th Sep",
+          "ride_date": "30-09-2026",
+          "message": null,
+          "date_search_message": null
+        },
+        {
+          "day_string": "Thu, 1st Oct",
+          "ride_date": "01-10-2026",
+          "message": null,
+          "date_search_message": null
+        },
+        {
+          "day_string": "Mon, 5th Oct",
+          "ride_date": "05-10-2026",
+          "message": null,
+          "date_search_message": null
+        }
+      ],
+      "search_result_extra_info_v2": {
+        "reduced_frequency_message_in_search_results": null,
+        "reduced_frequency_message_in_changetime_results": null,
+        "info_note": null,
+        "message_on_changetime_page": null,
+        "video_link": null,
+        "thumbnail_url": null,
+        "thumbnail_message": null,
+        "thumbnail_submessage": null,
+        "results_prompt": {
+          "title": null,
+          "sub_title": null,
+          "icon_url": null,
+          "cta_text": null,
+          "action": null,
+          "result_type": "Nearby",
+          "secondary_cta": null
+        },
+        "results_header": "Available Stops",
+        "first_ride_banner": {
+          "title": [
+            {
+              "text": "Showing nearest stops & bus timings on your route",
+              "text_style": "heading_4",
+              "text_color": "#231F20"
+            }
+          ],
+          "subtitle": [
+            {
+              "text": "Your first ride at ",
+              "text_style": "heading_6",
+              "text_color": "#231F20"
+            },
+            {
+              "text": "₹49",
+              "text_style": "heading_5",
+              "text_color": "#3B3839"
+            }
+          ]
+        },
+        "variable_pricing_shown": false
+      },
+      "search_result_type": "b2c",
+      "search_result_tabs": [
+        {
+          "icon_url": "https://assets.cityflo.net/search-tabs/cityflo_unselected.png",
+          "selected_hex_color": "#FFB800",
+          "unselected_hex_color": "#96A6B0",
+          "title": "Cityflo",
+          "slug": "b2c",
+          "action_url": null
+        }
+      ]
+    }
+  }
+]
